@@ -3,6 +3,11 @@
 
 **A curated list of amazingly awesome Meshtastic resources**
 
+## How to Contribute? 
+* Option #1 - [File a PR](https://github.com/ShakataGaNai/awesome-meshtastic/pulls). 
+* Option #2 - [Create an issue](https://github.com/ShakataGaNai/awesome-meshtastic/issues)
+* Option #3 - Join [Meshtastic Discord](https://discord.com/invite/ktMAKGBnBs) and message @ShakataGaNai
+
 --------------------
 
 ## Table of contents
