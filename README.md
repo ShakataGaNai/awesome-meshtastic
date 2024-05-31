@@ -19,6 +19,9 @@
 - [Communities](#communities)
   - [USA](#usa)
     - [California](#california)
+    - [Colorado](#colorado)
+    - [Hawaii](#hawaii)
+
 
 --------------------
 ## Official Resources
@@ -41,8 +44,8 @@ Everything from the offical Meshtastic project
 
 Tools for the every-user to see whats going on in general.
 
-* [Meshtastic Map](https://meshtastic.liamcottle.net/) by Liam Cottle - [Source code](https://github.com/liamcottle/meshtastic-map)
-* [Meshmap.net](https://meshmap.net/) - [Source code](https://github.com/brianshea2/meshmap.net)
+- [Meshtastic Map](https://meshtastic.liamcottle.net/) by Liam Cottle - [Source code](https://github.com/liamcottle/meshtastic-map)
+- [Meshmap.net](https://meshmap.net/) - [Source code](https://github.com/brianshea2/meshmap.net)
 
 ## Tools
 
@@ -50,9 +53,9 @@ Tools for the every-user to see whats going on in general.
 
 For tools developed specifically for meshtastic but probably require running for yourself or your local mesh.
 
-* [Meshview by Armoo](https://github.com/armooo/meshview) - A project watches a MQTT topic for meshtastic messages, imports them to a database and has a web UI to view them. [Example on BayMesh](https://meshview.armooo.net/)
-* [Meshinfo by kevinelliott](https://github.com/kevinelliott/meshinfo) - A project written in Python and connects to an MQTT server that is receiving Meshtastic messages for the purpose of visualizing and inspecting traffic. [Example on SacValleyMesh](https://svm.meshinfo.network/mqtt_log.html)
-* [bayme.sh-bot by ppicazo](https://github.com/ppicazo/bayme.sh-bot) - An MQTT to Discord logger bot for local meshes. 
+- [Meshview by Armoo](https://github.com/armooo/meshview) - A project watches a MQTT topic for meshtastic messages, imports them to a database and has a web UI to view them. [Example on BayMesh](https://meshview.armooo.net/)
+- [Meshinfo by kevinelliott](https://github.com/kevinelliott/meshinfo) - A project written in Python and connects to an MQTT server that is receiving Meshtastic messages for the purpose of visualizing and inspecting traffic. [Example on SacValleyMesh](https://svm.meshinfo.network/mqtt_log.html)
+- [bayme.sh-bot by ppicazo](https://github.com/ppicazo/bayme.sh-bot) - An MQTT to Discord logger bot for local meshes. 
 
 ## Hardware
 
@@ -60,7 +63,7 @@ For tools developed specifically for meshtastic but probably require running for
 
 Reputable stores that provide quality hardware only.
 
-* [Rokland](https://store.rokland.com/pages/meshtastic-hardware-rak-lilygo)
+- [Rokland](https://store.rokland.com/pages/meshtastic-hardware-rak-lilygo)
 
 ## Communities
 
@@ -79,3 +82,10 @@ All the local meshtastic communities. See also: [Local Groups on Meshstastic.org
 - [San Diego Mesh (Discord)](https://discord.gg/k8RputgWgD)
 - [Antelope Valley Mesh](https://www.avmesh.org/)
 - [AltaMesh](https://altamesh.net/) - Altadena, CA
+
+#### Colorado
+- [Denver Mesh](https://denvermesh.org/)
+
+#### Hawaii
+- [Hawaii Meshnet](https://www.hawaiimesh.net/)
+
