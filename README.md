@@ -10,6 +10,7 @@
 - [Official Resources](#official-resources)
 - [Maps and Diagnostics](#maps-and-diagnostics)
 - [Tools](#tools)
+- [Hardware](#hardware)
 - [Communities](#communities)
   - [USA](#usa)
     - [California](#california)
@@ -45,6 +46,14 @@ Tools for the every-user to see whats going on in general.
 For tools developed specifically for meshtastic but probably require running for yourself or your local mesh.
 
 * [Meshview by Armoo](https://github.com/armooo/meshview) - Aproject watches a MQTT topic for meshtastic messages, imports them to a database and has a web UI to view them.
+
+## Hardware
+
+**[`^        back to top        ^`](#awesome-meshtastic)**
+
+Reputable stores that provide quality hardware only.
+
+* [Rokland](https://store.rokland.com/pages/meshtastic-hardware-rak-lilygo)
 
 ## Communities
 
