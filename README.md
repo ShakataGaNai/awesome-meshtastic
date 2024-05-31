@@ -6,7 +6,7 @@
 ## How to Contribute? 
 * Option #1 - [File a PR](https://github.com/ShakataGaNai/awesome-meshtastic/pulls). 
 * Option #2 - [Create an issue](https://github.com/ShakataGaNai/awesome-meshtastic/issues)
-* Option #3 - Join [Meshtastic Discord](https://discord.com/invite/ktMAKGBnBs) and message @ShakataGaNai
+* Option #3 - Join the offical [Meshtastic Discord](https://discord.com/invite/ktMAKGBnBs) and post in the [Awesome Meshtastic project](https://discord.com/channels/867578229534359593/1246235089281749053)
 
 --------------------
 
