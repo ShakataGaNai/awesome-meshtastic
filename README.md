@@ -60,6 +60,6 @@ All the local meshtastic communities. See also: [Local Groups on Meshstastic.org
 - [Central Valley Mesh](https://centralvalleymesh.net)
 - [SoCal Mesh](https://socalmesh.org/) - Formerly Laguna Mesh
 - [Mission Viejo Mesh](https://missionviejomesh.org/)
-- [San Diego Mesh (Disco9rd)](https://discord.gg/k8RputgWgD)
+- [San Diego Mesh (Discord)](https://discord.gg/k8RputgWgD)
 - [Antelope Valley Mesh](https://www.avmesh.org/)
 - [AltaMesh](https://altamesh.net/) - Altadena, CA
