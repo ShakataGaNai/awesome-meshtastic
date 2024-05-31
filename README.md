@@ -15,7 +15,8 @@
 - [Official Resources](#official-resources)
 - [Maps and Diagnostics](#maps-and-diagnostics)
 - [Tools](#tools)
-- [Hardware](#hardware)
+- [Hacks and Projects](#hacks-and-projects)
+- [Hardware Stores](#hardware-stores)
 - [Communities](#communities)
   - [Australia](#australia)
     - [Australian Capital Territory](#australian-capital-territory)
@@ -91,7 +92,13 @@ For tools developed specifically for meshtastic but probably require running for
 - [bayme.sh-bot by ppicazo](https://github.com/ppicazo/bayme.sh-bot) - An MQTT to Discord logger bot for local meshes. 
 - [Meshtastic-MQTT-Connect by pdxlocations](https://github.com/pdxlocations/Meshtastic-MQTT-Connect) - A python (TK/TCL) based MQTT/Meshtastic UI for your local machine.
 
-## Hardware
+## Hacks and Projects
+
+**[`^        back to top        ^`](#awesome-meshtastic)**
+
+- [Harbor Breeze Meshtastic Hack](https://hackaday.io/project/194509-harbor-breeze-meshtastic-hack) - Use the $15 Harbor Breeze Solar Light as a self contained waterproof enclosure for a WisBlock based Meshtastic Node.
+
+## Hardware Stores
 
 **[`^        back to top        ^`](#awesome-meshtastic)**
 
