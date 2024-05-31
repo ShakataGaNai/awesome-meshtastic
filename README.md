@@ -50,7 +50,8 @@ Tools for the every-user to see whats going on in general.
 
 For tools developed specifically for meshtastic but probably require running for yourself or your local mesh.
 
-* [Meshview by Armoo](https://github.com/armooo/meshview) - Aproject watches a MQTT topic for meshtastic messages, imports them to a database and has a web UI to view them.
+* [Meshview by Armoo](https://github.com/armooo/meshview) - A project watches a MQTT topic for meshtastic messages, imports them to a database and has a web UI to view them. [Example on BayMesh](https://meshview.armooo.net/)
+* [Meshinfo by kevinelliott](https://github.com/kevinelliott/meshinfo) - A project written in Python and connects to an MQTT server that is receiving Meshtastic messages for the purpose of visualizing and inspecting traffic. [Example on SacValleyMesh](https://svm.meshinfo.network/mqtt_log.html)
 
 ## Hardware
 
