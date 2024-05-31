@@ -1,16 +1,34 @@
 # awesome-meshtastic
 [![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 **A curated list of amazingly awesome Meshtastic resources**
 
 --------------------
 
 ## Table of contents
 
+- [Official Resources](#official-resources)
 - [Maps and Diagnostics](#maps-and-diagnostics)
 - [Tools](#tools)
 - [Communities](#communities)
+  - [USA](#usa)
+    - [California](#california)
 
 --------------------
+## Official Resources
+
+**[`^        back to top        ^`](#awesome-meshtastic)**
+
+Everything from the offical Meshtastic project
+
+- [Meshtastic.org](https://meshtastic.org/) - The homepage & official documentation
+- [Firmware on Github](https://github.com/meshtastic/firmware)
+- [All Downloads](https://meshtastic.org/downloads/)
+  - [Web Flasher](https://flasher.meshtastic.org/)
+  - [iOS App](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1586432531)
+  - [Android App](https://play.google.com/store/apps/details?id=com.geeksville.mesh)
+- [r/Meshtastic](https://www.reddit.com/r/meshtastic/) on reddit
+
 ## Maps and Diagnostics
 
 **[`^        back to top        ^`](#awesome-meshtastic)**
@@ -32,8 +50,11 @@ For tools developed specifically for meshtastic but probably require running for
 
 **[`^        back to top        ^`](#awesome-meshtastic)**
 
-All the local meshtastic communities.
+All the local meshtastic communities. See also: [Local Groups on Meshstastic.org](https://meshtastic.org/docs/community/local-groups/)
 
+### USA
+
+#### California
 - [San Francisco Bay Area](https://bayme.sh/), CA USA
 - [Sacramento Valley](https://www.sacvalleymesh.com/), CA USA
 - [Central Valley](https://centralvalleymesh.net), CA USA
