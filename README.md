@@ -17,10 +17,43 @@
 - [Tools](#tools)
 - [Hardware](#hardware)
 - [Communities](#communities)
+  - [Australia](#australia)
+    - [Australian Capital Territory](#australian-capital-territory)
+    - [Tasmania](#tasmania)
+  - [Canada](#canada)
+    - [Alberta](#alberta)
+    - [British Columbia](#british-columbia)
+    - [Manitoba](#manitoba)
+    - [New Brunswick](#new-brunswick)
+    - [Newfoundland](#newfoundland)
+    - [Northwest Territories](#northwest-territories)
+    - [Nova Scotia](#nova-scotia)
+    - [Ontario](#ontario)
+    - [Prince Edward Island](#prince-edward-island)
+    - [Quebec](#quebec)
+    - [Saskatchewan](#saskatchewan)
+  - [Finland](#finland)
+  - [Germany](#germany)
+  - [India](#india)
+  - [Italy](#italy)
+  - [Lithuania](#lithuania)
+  - [The Netherlands](#the-netherlands)
+  - [Poland](#poland)
+  - [Taiwan](#taiwan)
+  - [Türkiye](#türkiye)
+  - [United Kingdom](#united-kingdom)
   - [USA](#usa)
+    - [Arkansas](#arkansas)
     - [California](#california)
     - [Colorado](#colorado)
     - [Hawaii](#hawaii)
+    - [Illinois](#illinois)
+    - [Massachusetts](#massachusetts)
+    - [Michigan](#michigan)
+    - [New Mexico](#new-mexico)
+    - [Oklahoma](#oklahoma)
+    - [Tennessee](#tennessee)
+    - [Texas](#texas)
 
 
 --------------------
@@ -71,7 +104,101 @@ Reputable stores that provide quality hardware only.
 
 All the local meshtastic communities. See also: [Local Groups on Meshstastic.org](https://meshtastic.org/docs/community/local-groups/)
 
+### Australia
+**[`^        back to top        ^`](#awesome-meshtastic)**
+
+#### Australian Capital Territory
+- [Canberra Meshtastic Community (Discord)](https://discord.gg/4QgFsuaC3Z)
+#### Tasmania
+- [Meshtastic User Group Tasmania (Facebook)](https://www.facebook.com/groups/1556630645195649)
+
+### Canada
+**[`^        back to top        ^`](#awesome-meshtastic)**
+
+#### Alberta
+- [YYC Mesh](https://yycmesh.com/)
+- [Mesht Calgary (Telegram)](https://t.me/meshtcalgary)
+- [Mesht Alberta (Telegram)](https://t.me/meshtAlta)
+
+#### British Columbia
+- [Meshtastic BC users group (Telegram)](https://t.me/Mesh_BC)
+- [Meshtastic Dawson Creek BC users group (Telegram)](https://t.me/Mesh_BC_Dawson_Creek)
+
+#### Manitoba
+- [Mesht Manitoba (Telegram)](https://t.me/MeshtManitoba)
+
+#### New Brunswick
+- [Mesht New Brunswick (Telegram)](https://t.me/MeshtNB)
+
+#### Newfoundland
+- [Mesht Newfoundland (Telegram)](https://t.me/MeshtNewfoundland)
+
+#### Northwest Territories
+- [Mesht Northwest Territories (Telegram)](https://t.me/MeshtNWT)
+
+#### Nova Scotia
+- [Mesht Nova Scotia (Telegram)](https://t.me/MeshtNovaScotia)
+
+#### Ontario
+- [Mesht Ontario (Telegram)](https://t.me/meshtOnt)
+
+#### Prince Edward Island
+- [Mesht PEI (Telegram)](https://t.me/MeshtPEI)
+
+#### Quebec
+- [Mesht Quebec (Telegram)](https://t.me/meshtQuebec)
+
+#### Saskatchewan
+- [Mesht Saskatchewan (Telegram)](https://t.me/MeshtSaska)
+
+### Finland
+**[`^        back to top        ^`](#awesome-meshtastic)**
+- [Mesh-Finland](https://mesh-finland.github.io) - [Discord](https://discord.com/invite/GHnaVAjqed)
+
+### Germany
+**[`^        back to top        ^`](#awesome-meshtastic)**
+- [Meshtastic Users Germany (D-A-CH) (Telegram)](https://t.me/meshtasticgermany) - for technical chat
+
+### India
+**[`^        back to top        ^`](#awesome-meshtastic)**
+- [India Bir Paragliding](https://bircom.in)
+
+### Italy
+**[`^        back to top        ^`](#awesome-meshtastic)**
+- [Meshtastic Italia (Telegram)](https://t.me/meshtastic_italia)
+- [Mesh ITA Club (Discord)](https://discord.gg/ETFmtyzbFT)
+
+### Lithuania
+**[`^        back to top        ^`](#awesome-meshtastic)**
+- [Meshtastic Lietuva (Facebook)](https://www.facebook.com/groups/1122509422249414)
+
+### The Netherlands
+**[`^        back to top        ^`](#awesome-meshtastic)**
+- [Meshtastic Netherlands (Telegram)](https://t.me/meshtastic_nl)
+
+### Poland
+**[`^        back to top        ^`](#awesome-meshtastic)**
+- [Meshtastic Poland (Matrix)](https://matrix.to/#/#meshtasticpl:matrix.org)
+
+### Taiwan
+**[`^        back to top        ^`](#awesome-meshtastic)**
+- [Meshtastic Taiwan Community 臺灣鏈網 (Facebook)](https://www.facebook.com/groups/413628121046386) - [Discord](https://discord.gg/2vZkuckp8E)
+
+### Türkiye
+**[`^        back to top        ^`](#awesome-meshtastic)**
+- [TRMesh](https://trmesh.org)
+
+### United Kingdom
+**[`^        back to top        ^`](#awesome-meshtastic)**
+- [UK Meshtastic Kent / South East (Facebook)](https://www.facebook.com/groups/ukmeshtastickent/)
+- [UK Meshtastic Brighton (Facebook)](https://www.facebook.com/groups/3696312513946679/)
+- [UK Meshtastic North East England (Facebook)](https://www.facebook.com/groups/meshtasticnortheastengland/)
+
 ### USA
+**[`^        back to top        ^`](#awesome-meshtastic)**
+
+#### Arkansas
+- [Fab Lab Fort Smit (Discord)](https://discord.com/invite/nwsvcXeqMX) - Fort Smith
 
 #### California
 - [BayMesh](https://bayme.sh/) - San Francisco Bay Area
@@ -89,3 +216,23 @@ All the local meshtastic communities. See also: [Local Groups on Meshstastic.org
 #### Hawaii
 - [Hawaii Meshnet](https://www.hawaiimesh.net/)
 
+#### Illinois
+- [Chicagoland Meshtastic](https://chicagolandmesh.org/)
+
+#### Massachusetts
+- [Boston Meshnet (Facebook)](https://www.facebook.com/groups/376287875353461/)
+
+#### Michigan
+- [Michigan Meshtastic Network (Discord)](https://discord.gg/3A5RREcBcc)
+
+#### New Mexico
+- [Albuquerque Mesh](https://www.abqm.net)
+
+#### Oklahoma
+- [Oklahoma Meshtastic (Facebook)](https://www.facebook.com/groups/942404880478488)
+
+#### Tennessee
+- [Meshville](https://meshville.org/) - Nashville
+
+#### Texas
+- [Austin Mesh](https://austinmesh.org/)
