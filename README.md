@@ -13,6 +13,7 @@
 ## Table of contents
 
 - [Official Resources](#official-resources)
+- [Guides & Getting Started](#guides--getting-started)
 - [Maps and Diagnostics](#maps-and-diagnostics)
 - [Hosted Tools](#hosted-tools)
 - [Local Software](#local-software)
@@ -73,6 +74,14 @@ Everything from the offical Meshtastic project
   - [Android App](https://play.google.com/store/apps/details?id=com.geeksville.mesh)
 - [r/Meshtastic](https://www.reddit.com/r/meshtastic/) on reddit
 
+## Guides & Getting Started
+
+**[`^        back to top        ^`](#awesome-meshtastic)**
+
+A collection of useful guides and getting started information for the new Meshtastic users.
+
+- [How does it work by AustinMesh](https://austinmesh.org/#how-does-it-work) - Some suggested settings are AustinMesh specific, but in general it's useful for anyone
+
 ## Maps and Diagnostics
 
 **[`^        back to top        ^`](#awesome-meshtastic)**
@@ -115,6 +124,10 @@ Is it software, but not for a server? For you, your phone or your computer?
 Reputable stores that provide quality hardware only.
 
 - [Rokland](https://store.rokland.com/pages/meshtastic-hardware-rak-lilygo)
+- [YetiWurks](https://www.yetiwurks.com/product-category/communication/)
+- [Neil Hao on Tindie](https://www.tindie.com/stores/neilhao/) - For the G1 & G2 series of devices
+- [LILYGO Offical Site](https://www.lilygo.cc/collections/lora-or-gps)
+- [LILYGO on AliExpress](https://lilygo.aliexpress.com/store/1101195566)
 
 ## Communities
 
