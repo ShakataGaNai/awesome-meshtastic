@@ -80,7 +80,8 @@ Everything from the offical Meshtastic project
 
 A collection of useful guides and getting started information for the new Meshtastic users.
 
-- [How does it work by AustinMesh](https://austinmesh.org/#how-does-it-work) - Some suggested settings are AustinMesh specific, but in general it's useful for anyone
+- ["How does it Work" by AustinMesh](https://austinmesh.org/#how-does-it-work) - Some suggested settings are AustinMesh specific, but in general it's useful for anyone
+- ["Getting Started with Meshtastic" by The Comms Channel (YouTube)](https://www.youtube.com/playlist?list=PLshzThxhw4O5JTOACGHzYSSd3soDhoXKK)
 
 ## Maps and Diagnostics
 
