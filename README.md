@@ -15,9 +15,8 @@
 - [Official Resources](#official-resources)
 - [Guides & Getting Started](#guides--getting-started)
 - [Maps and Diagnostics](#maps-and-diagnostics)
-- [Hosted Tools](#hosted-tools)
+- [Server Software](#server-software)
 - [Local Software](#local-software)
-- [Local Server Software](#local-server-software)
 - [Hacks and Projects](#hacks-and-projects)
 - [Hardware Stores](#hardware-stores)
 - [Communities](#communities)
@@ -83,7 +82,6 @@ A collection of useful guides and getting started information for the new Meshta
 
 - ["How does it Work" by AustinMesh](https://austinmesh.org/#how-does-it-work) - Some suggested settings are AustinMesh specific, but in general it's useful for anyone
 - ["Getting Started with Meshtastic" by The Comms Channel (YouTube)](https://www.youtube.com/playlist?list=PLshzThxhw4O5JTOACGHzYSSd3soDhoXKK)
-- [Meshtastic-Experiments by HarukiToreda](https://github.com/HarukiToreda/Meshtastic-Experiments) - A low level collection & comparison of various Meshtastic hardware.
 
 ## Maps and Diagnostics
 
@@ -94,7 +92,7 @@ Tools for the every-user to see whats going on in general.
 - [Meshtastic Map](https://meshtastic.liamcottle.net/) by Liam Cottle - [Source code](https://github.com/liamcottle/meshtastic-map)
 - [Meshmap.net](https://meshmap.net/) - [Source code](https://github.com/brianshea2/meshmap.net)
 
-## Hosted Tools
+## Server Software
 
 **[`^        back to top        ^`](#awesome-meshtastic)**
 
@@ -103,6 +101,8 @@ For software tools developed specifically for meshtastic but probably require ru
 - [Meshview by Armoo](https://github.com/armooo/meshview) - A project watches a MQTT topic for meshtastic messages, imports them to a database and has a web UI to view them. [Example on BayMesh](https://meshview.armooo.net/)
 - [Meshinfo by kevinelliott](https://github.com/kevinelliott/meshinfo) - A project written in Python and connects to an MQTT server that is receiving Meshtastic messages for the purpose of visualizing and inspecting traffic. [Example on SacValleyMesh](https://svm.meshinfo.network/mqtt_log.html)
 - [bayme.sh-bot by ppicazo](https://github.com/ppicazo/bayme.sh-bot) - An MQTT to Discord logger bot for local meshes. 
+- [Meshtastic-SDR](https://gitlab.com/crankylinuxuser/meshtastic_sdr) - A GnuRadio and Python based replacement for Meshtastic radio hardware. Can receive multiple presets at the same time. Currently working on TX.
+- [Meshtastic-SAME-EAS-Alerter by RCGV1](https://github.com/RCGV1/Meshtastic-SAME-EAS-Alerter) - A tool to recieve alerts from the National Weather Service and broadcast them on Meshtastic
 
 ## Local Software
 
@@ -113,19 +113,14 @@ Is it software, but not for a server? For you, your phone or your computer?
 - [Meshtastic-MQTT-Connect by pdxlocations](https://github.com/pdxlocations/Meshtastic-MQTT-Connect) - A python (TK/TCL) based MQTT/Meshtastic UI for your local machine.
 - [MultiMesh](https://github.com/paulocode/multimesh) - A cross-platform Meshtastic client based on Flutter
 
-## Local Server Software
-
-**[`^        back to top        ^`](#awesome-meshtastic)**
-
-Is it software, but for a server?
-
-- [Meshtastic-SDR](https://gitlab.com/crankylinuxuser/meshtastic_sdr) - A GnuRadio and Python based replacement for Meshtastic radio hardware. Can receive multiple presets at the same time. Currently working on TX.
 
 ## Hacks and Projects
 
 **[`^        back to top        ^`](#awesome-meshtastic)**
 
 - [Harbor Breeze Meshtastic Hack](https://hackaday.io/project/194509-harbor-breeze-meshtastic-hack) - Use the $15 Harbor Breeze Solar Light as a self contained waterproof enclosure for a WisBlock based Meshtastic Node.
+- [Meshtastic-Experiments by HarukiToreda](https://github.com/HarukiToreda/Meshtastic-Experiments) - A low level collection & comparison of various Meshtastic hardware.
+- [Meshpipe by Armooo](https://github.com/armooo/meshpipe) - An attempt to slurp packets out of one radio and chuck them out another (POC for a conceptual meshtastic backhaul)
 
 ## Hardware Stores
 
