@@ -67,6 +67,7 @@
 Everything from the offical Meshtastic project
 
 - [Meshtastic.org](https://meshtastic.org/) - The homepage & official documentation
+- [Donate to Meshtastic](https://opencollective.com/meshtastic) - Support the Meshtastic project and development on OpenCollective
 - [Firmware on Github](https://github.com/meshtastic/firmware)
 - [All Downloads](https://meshtastic.org/downloads/)
   - [Web Flasher](https://flasher.meshtastic.org/)
