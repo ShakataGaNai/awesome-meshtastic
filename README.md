@@ -17,6 +17,7 @@
 - [Maps and Diagnostics](#maps-and-diagnostics)
 - [Hosted Tools](#hosted-tools)
 - [Local Software](#local-software)
+- [Local Server Software](#local-server-software)
 - [Hacks and Projects](#hacks-and-projects)
 - [Hardware Stores](#hardware-stores)
 - [Communities](#communities)
@@ -111,6 +112,13 @@ Is it software, but not for a server? For you, your phone or your computer?
 - [Meshtastic-MQTT-Connect by pdxlocations](https://github.com/pdxlocations/Meshtastic-MQTT-Connect) - A python (TK/TCL) based MQTT/Meshtastic UI for your local machine.
 - [MultiMesh](https://github.com/paulocode/multimesh) - A cross-platform Meshtastic client based on Flutter
 
+## Local Server Software
+
+**[`^        back to top        ^`](#awesome-meshtastic)**
+
+Is it software, but for a server?
+
+- [Meshtastic-SDR](https://gitlab.com/crankylinuxuser/meshtastic_sdr) - A GnuRadio and Python based replacement for Meshtastic radio hardware. Can receive multiple presets at the same time. Currently working on TX.
 
 ## Hacks and Projects
 
