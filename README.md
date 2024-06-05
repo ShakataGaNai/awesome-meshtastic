@@ -57,6 +57,7 @@
     - [Oklahoma](#oklahoma)
     - [Tennessee](#tennessee)
     - [Texas](#texas)
+    - [Washington](#washington)
 
 
 --------------------
@@ -230,6 +231,7 @@ All the local meshtastic communities. See also: [Local Groups on Meshstastic.org
 - [UK Meshtastic Kent / South East (Facebook)](https://www.facebook.com/groups/ukmeshtastickent/)
 - [UK Meshtastic Brighton (Facebook)](https://www.facebook.com/groups/3696312513946679/)
 - [UK Meshtastic North East England (Facebook)](https://www.facebook.com/groups/meshtasticnortheastengland/)
+- [Swansea Meshtastic Group](https://swansea.localmesh.org/) - Wales
 
 ### USA
 **[`^        back to top        ^`](#awesome-meshtastic)**
@@ -246,15 +248,18 @@ All the local meshtastic communities. See also: [Local Groups on Meshstastic.org
 - [San Diego Mesh (Discord)](https://discord.gg/k8RputgWgD)
 - [Antelope Valley Mesh](https://www.avmesh.org/)
 - [AltaMesh](https://altamesh.net/) - Altadena, CA
+- [Meshtastic Santa Cruz County (Groups.IO)](https://groups.io/g/Meshtastic-Santa-Cruz)
 
 #### Colorado
 - [Denver Mesh](https://denvermesh.org/)
+- [Longmont Mesh](https://longmont.localmesh.org/)
 
 #### Hawaii
 - [Hawaii Meshnet](https://www.hawaiimesh.net/)
 
 #### Illinois
 - [Chicagoland Meshtastic](https://chicagolandmesh.org/)
+- [Clark County Illinois Meshtastic Network](https://clarkcountyill.localmesh.org/doku.php?id=start)
 
 #### Massachusetts
 - [Boston Meshnet (Facebook)](https://www.facebook.com/groups/376287875353461/)
@@ -273,3 +278,6 @@ All the local meshtastic communities. See also: [Local Groups on Meshstastic.org
 
 #### Texas
 - [Austin Mesh](https://austinmesh.org/)
+
+#### Washington
+- [Tacoma.localmesh](https://tacoma.localmesh.org/doku.php?id=start)
