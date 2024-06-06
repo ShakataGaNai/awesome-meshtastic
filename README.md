@@ -98,22 +98,22 @@ Tools for the every-user to see whats going on in general.
 
 **[`^        back to top        ^`](#awesome-meshtastic)**
 
-For software tools developed specifically for meshtastic but probably require running for yourself or your local mesh. Typically hosted on a server
+For software tools developed specifically for meshtastic but probably require running for yourself or your local mesh. Typically hosted on a server. You probably don't need to know how to run it, to use it.
 
 - [Meshview by Armoo](https://github.com/armooo/meshview) - A project watches a MQTT topic for meshtastic messages, imports them to a database and has a web UI to view them. [Example on BayMesh](https://meshview.armooo.net/)
 - [Meshinfo by kevinelliott](https://github.com/kevinelliott/meshinfo) - A project written in Python and connects to an MQTT server that is receiving Meshtastic messages for the purpose of visualizing and inspecting traffic. [Example on SacValleyMesh](https://svm.meshinfo.network/mqtt_log.html)
 - [bayme.sh-bot by ppicazo](https://github.com/ppicazo/bayme.sh-bot) - An MQTT to Discord logger bot for local meshes. 
-- [Meshtastic-SDR](https://gitlab.com/crankylinuxuser/meshtastic_sdr) - A GnuRadio and Python based replacement for Meshtastic radio hardware. Can receive multiple presets at the same time. Currently working on TX.
-- [Meshtastic-SAME-EAS-Alerter by RCGV1](https://github.com/RCGV1/Meshtastic-SAME-EAS-Alerter) - A tool to recieve alerts from the National Weather Service and broadcast them on Meshtastic
 
 ## Local Software
 
 **[`^        back to top        ^`](#awesome-meshtastic)**
 
-Is it software, but not for a server? For you, your phone or your computer? 
+Is it software, but not for a server? For you, your phone or your computer? You probably need some knowledge on how to run/use these things.
 
 - [Meshtastic-MQTT-Connect by pdxlocations](https://github.com/pdxlocations/Meshtastic-MQTT-Connect) - A python (TK/TCL) based MQTT/Meshtastic UI for your local machine.
 - [MultiMesh](https://github.com/paulocode/multimesh) - A cross-platform Meshtastic client based on Flutter
+- [Meshtastic-SDR](https://gitlab.com/crankylinuxuser/meshtastic_sdr) - A GnuRadio and Python based replacement for Meshtastic radio hardware. Can receive multiple presets at the same time. Currently working on TX.
+- [Meshtastic-SAME-EAS-Alerter by RCGV1](https://github.com/RCGV1/Meshtastic-SAME-EAS-Alerter) - A tool to recieve alerts from the National Weather Service and broadcast them on Meshtastic
 
 
 ## Hacks and Projects
