@@ -249,6 +249,7 @@ All the local meshtastic communities. See also: [Local Groups on Meshstastic.org
 - [Antelope Valley Mesh](https://www.avmesh.org/)
 - [AltaMesh](https://altamesh.net/) - Altadena, CA
 - [Meshtastic Santa Cruz County (Groups.IO)](https://groups.io/g/Meshtastic-Santa-Cruz)
+- [MontereyBayMesh](https://mrymesh.net/)
 
 #### Colorado
 - [Denver Mesh](https://denvermesh.org/)
