@@ -49,6 +49,7 @@
     - [Arkansas](#arkansas)
     - [California](#california)
     - [Colorado](#colorado)
+    - [Florida](#florida)
     - [Hawaii](#hawaii)
     - [Illinois](#illinois)
     - [Massachusetts](#massachusetts)
@@ -255,6 +256,9 @@ All the local meshtastic communities. See also: [Local Groups on Meshstastic.org
 #### Colorado
 - [Denver Mesh](https://denvermesh.org/)
 - [Longmont Mesh](https://longmont.localmesh.org/)
+
+#### Florida
+- [Florida Meshtastic](https://discord.gg/WRcfFH4sGz)
 
 #### Hawaii
 - [Hawaii Meshnet](https://www.hawaiimesh.net/)
