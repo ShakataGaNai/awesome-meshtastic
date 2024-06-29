@@ -228,6 +228,10 @@ All the local meshtastic communities. See also: [Local Groups on Meshstastic.org
 **[`^        back to top        ^`](#awesome-meshtastic)**
 - [TRMesh](https://trmesh.org)
 
+### Ukraine
+**[`^        back to top        ^`](#awesome-meshtastic)**
+- [Meshtastic Ukraine (Telegram)](https://t.me/meshtastic_ua)
+
 ### United Kingdom
 **[`^        back to top        ^`](#awesome-meshtastic)**
 - [UK Meshtastic Kent / South East (Facebook)](https://www.facebook.com/groups/ukmeshtastickent/)
