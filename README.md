@@ -59,6 +59,7 @@
     - [Oklahoma](#oklahoma)
     - [Tennessee](#tennessee)
     - [Texas](#texas)
+    - [Virginia](#virginia)
     - [Washington](#washington)
 
 
@@ -289,6 +290,9 @@ All the local meshtastic communities. See also: [Local Groups on Meshstastic.org
 
 #### Texas
 - [Austin Mesh](https://austinmesh.org/)
+
+#### Virginia
+- [Northern Virginia Meshtastic](https://groups.io/g/NoVa-Meshtastic)
 
 #### Washington
 - [Tacoma.localmesh](https://tacoma.localmesh.org/doku.php?id=start)
