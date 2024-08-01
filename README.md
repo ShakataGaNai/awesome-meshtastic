@@ -108,6 +108,8 @@ For software tools developed specifically for meshtastic but probably require ru
 - [Meshinfo by kevinelliott](https://github.com/kevinelliott/meshinfo) - A project written in Python and connects to an MQTT server that is receiving Meshtastic messages for the purpose of visualizing and inspecting traffic. [Example on SacValleyMesh](https://svm.meshinfo.network/mqtt_log.html)
 - [bayme.sh-bot by ppicazo](https://github.com/ppicazo/bayme.sh-bot) - An MQTT to Discord logger bot for local meshes. 
 - [meshtastic-ha-entity-builder](https://github.com/pdxlocations/meshtastic-ha-entity-builder) - Builds entities from stored nodes using the [Meshtastic Home Assistant Integration](https://meshtastic.org/docs/software/integrations/mqtt/home-assistant/)
+- [meshtastic-new-node-processing by StevoKeano](https://github.com/StevoKeano/meshtastic-new-node-processing/) - Created by the AustinMesh team to welcome new users to the public mesh and direct them to help/resources.
+- [TC2-BBS-mesh by TheCommsChannel](https://github.com/TheCommsChannel/TC2-BBS-mesh) - Do you miss the good old days of dial up BBS? Now you can have one via mesh!
 
 ## Local Software
 
@@ -119,7 +121,7 @@ Is it software, but not for a server? For you, your phone or your computer? You 
 - [MultiMesh](https://github.com/paulocode/multimesh) - A cross-platform Meshtastic client based on Flutter
 - [Meshtastic-SDR](https://gitlab.com/crankylinuxuser/meshtastic_sdr) - A GnuRadio and Python based replacement for Meshtastic radio hardware. Can receive multiple presets at the same time. Currently working on TX.
 - [Meshtastic-SAME-EAS-Alerter by RCGV1](https://github.com/RCGV1/Meshtastic-SAME-EAS-Alerter) - A tool to recieve alerts from the National Weather Service and broadcast them on Meshtastic
-
+- [meshtastic-go by lmatte7](https://github.com/lmatte7/meshtastic-go) - A meshtastic CLI written in GoLang
 
 ## Hacks and Projects
 
