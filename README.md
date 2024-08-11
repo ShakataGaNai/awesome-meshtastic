@@ -20,6 +20,7 @@
 - [Hacks and Projects](#hacks-and-projects)
 - [Hardware Stores](#hardware-stores)
 - [Communities](#communities)
+  - [Virtual](#virtual)
   - [Australia](#australia)
     - [Australian Capital Territory](#australian-capital-territory)
     - [Tasmania](#tasmania)
@@ -148,6 +149,13 @@ Reputable stores that provide quality hardware only.
 **[`^        back to top        ^`](#awesome-meshtastic)**
 
 All the local meshtastic communities. See also: [Local Groups on Meshstastic.org](https://meshtastic.org/docs/community/local-groups/)
+
+### Virtual
+**[`^        back to top        ^`](#virtual)**
+
+For online communities, forums and gathering places, that are not nessisarily geographically specific.
+
+- [Meshtastic User Group on LinkedIn](https://www.linkedin.com/groups/14499139/)
 
 ### Australia
 **[`^        back to top        ^`](#awesome-meshtastic)**
