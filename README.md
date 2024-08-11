@@ -89,6 +89,7 @@ A collection of useful guides and getting started information for the new Meshta
 
 - ["How does it Work" by AustinMesh](https://austinmesh.org/#how-does-it-work) - Some suggested settings are AustinMesh specific, but in general it's useful for anyone
 - ["Getting Started with Meshtastic" by The Comms Channel (YouTube)](https://www.youtube.com/playlist?list=PLshzThxhw4O5JTOACGHzYSSd3soDhoXKK)
+- [Antenna Reports](https://github.com/meshtastic/antenna-reports) - Official Meshtastic community antenna reports
 
 ## Maps and Diagnostics
 
