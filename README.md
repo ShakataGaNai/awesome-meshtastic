@@ -231,6 +231,7 @@ For online communities, forums and gathering places, that are not nessisarily ge
 ### The Netherlands
 **[`^        back to top        ^`](#awesome-meshtastic)**
 - [Meshtastic Netherlands (Telegram)](https://t.me/meshtastic_nl)
+- [MeshNet Meshtastic Netherlands Community](https://www.meshnet.nl)
 
 ### Poland
 **[`^        back to top        ^`](#awesome-meshtastic)**
