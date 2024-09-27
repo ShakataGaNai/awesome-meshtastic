@@ -124,7 +124,7 @@ Is it software, but not for a server? For you, your phone or your computer? You 
 - [Meshtastic-SDR](https://gitlab.com/crankylinuxuser/meshtastic_sdr) - A GnuRadio and Python based replacement for Meshtastic radio hardware. Can receive multiple presets at the same time. Currently working on TX.
 - [Meshtastic-SAME-EAS-Alerter by RCGV1](https://github.com/RCGV1/Meshtastic-SAME-EAS-Alerter) - A tool to recieve alerts from the National Weather Service and broadcast them on Meshtastic
 - [meshtastic-go by lmatte7](https://github.com/lmatte7/meshtastic-go) - A meshtastic CLI written in GoLang
-- [Meshtastic python scripts by N7Iw](https://github.com/N7IW/Meshtastic) - Various Meshtastic python scripts
+- [Meshtastic python scripts by N7IW](https://github.com/N7IW/Meshtastic) - Various Meshtastic python scripts for experimentation
 - [Meshlink](https://github.com/Murturtle/MeshLink) - Send messages and packet info to and from Discord 
 
 ## Hacks and Projects
@@ -146,7 +146,9 @@ Reputable stores that provide quality hardware only.
 - [Neil Hao on Tindie](https://www.tindie.com/stores/neilhao/) - For the G1 & G2 series of devices
 - [LILYGO Offical Site](https://www.lilygo.cc/collections/lora-or-gps)
 - [LILYGO on AliExpress](https://lilygo.aliexpress.com/store/1101195566)
-
+- [Spec5](https://specfive.com)
+- [AT Labs](https://at-labs.tech)
+  
 ## Communities
 
 **[`^        back to top        ^`](#awesome-meshtastic)**
