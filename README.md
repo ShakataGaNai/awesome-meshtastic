@@ -258,7 +258,7 @@ For online communities, forums and gathering places, that are not nessisarily ge
 - [UK Meshtastic Brighton (Facebook)](https://www.facebook.com/groups/3696312513946679/)
 - [UK Meshtastic North East England (Facebook)](https://www.facebook.com/groups/meshtasticnortheastengland/)
 - [Swansea Meshtastic Group](https://swansea.localmesh.org/) - Wales
-- [Meshtatic Berkshire (Facebook)](https://www.facebook.com/groups/1083395923209693)
+- [UK Meshtastic Berkshire (Facebook)](https://www.facebook.com/groups/1083395923209693)
 - [UK - Berkshire (Meshtastic Offical Discord)](https://discordapp.com/channels/867578229534359593/1201610993462153376)
 
 ### USA
