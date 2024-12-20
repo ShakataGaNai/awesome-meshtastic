@@ -299,6 +299,9 @@ For online communities, forums and gathering places, that are not nessisarily ge
 #### New Mexico
 - [Albuquerque Mesh](https://www.abqm.net)
 
+#### North Carolina
+- [North Carolina Mesh](https://ncmesh.net)
+
 #### Oklahoma
 - [Oklahoma Meshtastic (Facebook)](https://www.facebook.com/groups/942404880478488)
 
