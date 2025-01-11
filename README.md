@@ -111,7 +111,7 @@ For software tools developed specifically for meshtastic but probably require ru
 - [meshtastic-new-node-processing by StevoKeano](https://github.com/StevoKeano/meshtastic-new-node-processing/) - Created by the AustinMesh team to welcome new users to the public mesh and direct them to help/resources.
 - [TC2-BBS-mesh by TheCommsChannel](https://github.com/TheCommsChannel/TC2-BBS-mesh) - Do you miss the good old days of dial up BBS? Now you can have one via mesh!
 - [Frozen BBS](https://github.com/kstrauser/frozenbbs) - Another BBS Implementation (written in Rust)
-- [Meshtastic-Matrix-Relay](https://github.com/geoffwhittington/meshtastic-matrix-relay) - Meshtastic <=> Matrix Relay
+- [Meshtastic-Matrix-Relay](https://github.com/geoffwhittington/meshtastic-matrix-relay) - Meshtastic to Matrix Relay
 
 ## Local Software
 
@@ -172,7 +172,7 @@ For online communities, forums and gathering places, that are not nessisarily ge
 - [Meshtastic User Group Tasmania (Facebook)](https://www.facebook.com/groups/1556630645195649)
 - [Meshtastic Sydney (Facebook)](https://www.facebook.com/groups/1041534027106861)
 - [Meshtastic Australia (Facebook)](https://www.facebook.com/groups/1169993994163108)
-- [Mesgtastic Victoria (Facebook - Private)](https://www.facebook.com/groups/meshtasticvictoria)
+- [Meshtastic Victoria (Facebook - Private)](https://www.facebook.com/groups/meshtasticvictoria)
 
 ### Canada
 **[`^        back to top        ^`](#awesome-meshtastic)**
