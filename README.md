@@ -23,8 +23,6 @@
   - [Virtual](#virtual)
   - [Australia](#australia)
   - [Canada](#canada)
-  - Canada Mesh Wiki (https://wiki.mt.gt/)
-  - Mesh Canada (https://t.me/meshtastic_canada)
     - [Alberta](#alberta)
     - [British Columbia](#british-columbia)
     - [Manitoba](#manitoba)
@@ -172,6 +170,9 @@ For online communities, forums and gathering places, that are not nessisarily ge
 
 ### Canada
 **[`^        back to top        ^`](#awesome-meshtastic)**
+
+- [Canada Mesh Wiki](https://wiki.mt.gt/)
+- [Mesh Canada (Telegram)](https://t.me/meshtastic_canada)
 
 #### Alberta
 - [YYC Mesh](https://yycmesh.com/)
