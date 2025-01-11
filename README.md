@@ -313,6 +313,7 @@ For online communities, forums and gathering places, that are not nessisarily ge
 
 #### Virginia
 - [Northern Virginia Meshtastic](https://groups.io/g/NoVa-Meshtastic)
+- [Shenandoah Valley Meshtastic](https://svmeshtastic.org)
 
 #### Washington
 - [Tacoma.localmesh](https://tacoma.localmesh.org/doku.php?id=start)
