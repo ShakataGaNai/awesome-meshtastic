@@ -3,6 +3,8 @@
 
 **A curated list of amazingly awesome Meshtastic resources**
 
+Note: Meshtastic® is a registered trademark of [Meshtastic LLC](https://meshtastic.org/docs/legal/licensing-and-trademark/). Use in this repository is for reference only and does not imply sponsorship or endorsement by Meshtastic LLC.
+
 ## How to Contribute? 
 * Option #1 - [File a PR](https://github.com/ShakataGaNai/awesome-meshtastic/pulls). 
 * Option #2 - [Create an issue](https://github.com/ShakataGaNai/awesome-meshtastic/issues)
@@ -129,6 +131,7 @@ Is it software, but not for a server? For you, your phone or your computer? You 
 - [MeshTenna](https://github.com/OE3JGW/MeshTenna) - Windows/Android app for comparing the performance of different antennas and locations
 - [MeshSense](https://affirmatech.com/meshsense) - Windows/Mac/Linux app for using a node over Wi-Fi or Bluetooth
 - [Meshtastic Visualizer](https://github.com/antlas0/meshtastic_visualizer) - Python PyQT desktop app to interface with local nodes, or subscribing to MQTT servers
+- [Meshtastic Plugin for Pidgin](https://github.com/dadecoza/pidgin-meshtastic) - A plugin to enable you to use Meshtastic with Pidgin (a multiplatform chat client)
 
 ## Hacks and Projects
 
