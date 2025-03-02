@@ -274,8 +274,11 @@ For online communities, forums and gathering places, that are not nessisarily ge
 ### USA
 **[`^        back to top        ^`](#awesome-meshtastic)**
 
+### Alabama
+- [Birmingham Mesh](https://birminghammesh.org/) - Birmingham
+
 #### Arkansas
-- [Fab Lab Fort Smit (Discord)](https://discord.com/invite/nwsvcXeqMX) - Fort Smith
+- [Fab Lab Fort Smith (Discord)](https://discord.com/invite/nwsvcXeqMX) - Fort Smith
 
 #### California
 - [BayMesh](https://bayme.sh/) - San Francisco Bay Area
