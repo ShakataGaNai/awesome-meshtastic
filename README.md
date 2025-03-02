@@ -160,7 +160,7 @@ Reputable stores that provide quality hardware only.
 
 **[`^        back to top        ^`](#awesome-meshtastic)**
 
-All the local meshtastic communities. See also: [Local Groups on Meshstastic.org](https://meshtastic.org/docs/community/local-groups/)
+All the local meshtastic communities. See also: [Local Groups on Meshtastic.org](https://meshtastic.org/docs/community/local-groups/)
 
 ### Virtual
 **[`^        back to top        ^`](#virtual)**
