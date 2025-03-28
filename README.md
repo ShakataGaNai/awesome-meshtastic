@@ -253,7 +253,7 @@ For online communities, forums and gathering places, that are not nessisarily ge
 
 ### South Africa
 **[`^        back to top        ^`](#awesome-meshtastic)**
-- [Meshtastic ZA (Discord)](https://discord.gg/YWBvrhsY)
+- [Meshtastic ZA (Discord)](https://bit.ly/buildthemesh)
 - [ZA MeshInfo](https://mesh.zr1rf.za.net/)
 
 ### Taiwan
