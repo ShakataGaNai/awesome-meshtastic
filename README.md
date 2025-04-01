@@ -251,6 +251,11 @@ For online communities, forums and gathering places, that are not nessisarily ge
 **[`^        back to top        ^`](#awesome-meshtastic)**
 - [Meshtastic Poland (Matrix)](https://matrix.to/#/#meshtasticpl:matrix.org)
 
+### South Africa
+**[`^        back to top        ^`](#awesome-meshtastic)**
+- [Meshtastic ZA (Discord)](https://bit.ly/buildthemesh)
+- [ZA MeshInfo](https://mesh.zr1rf.za.net/)
+
 ### Taiwan
 **[`^        back to top        ^`](#awesome-meshtastic)**
 - [Meshtastic Taiwan Community 臺灣鏈網 (Facebook)](https://www.facebook.com/groups/413628121046386) - [Discord](https://discord.gg/2vZkuckp8E)
