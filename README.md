@@ -42,6 +42,7 @@ Note: Meshtastic® is a registered trademark of [Meshtastic LLC](https://meshtas
   - [Italy](#italy)
   - [Lithuania](#lithuania)
   - [The Netherlands](#the-netherlands)
+  - [South Africa](#south-africa)
   - [Poland](#poland)
   - [Taiwan](#taiwan)
   - [Türkiye](#türkiye)
@@ -253,7 +254,7 @@ For online communities, forums and gathering places, that are not nessisarily ge
 
 ### South Africa
 **[`^        back to top        ^`](#awesome-meshtastic)**
-- [Meshtastic ZA (Discord)](https://bit.ly/buildthemesh)
+- [Meshtastic ZA (Discord)](https://discord.gg/tKGFwFYvsT)
 - [ZA MeshInfo](https://mesh.zr1rf.za.net/)
 
 ### Taiwan
