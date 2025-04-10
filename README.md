@@ -171,6 +171,13 @@ For online communities, forums and gathering places, that are not nessisarily ge
 
 - [Meshtastic User Group on LinkedIn](https://www.linkedin.com/groups/14499139/)
 
+### Argentina
+**[`^        back to top        ^`](#awesome-meshtastic)**
+
+- [Meshtastic Argentina (Telegram)](https://t.me/meshtastic_argentina/)
+- [Meshtastic Argentina Community (Github)](https://github.com/Meshtastic-Argentina/)
+- [BairesMesh (Channel)](https://meshtastic.org/e/#CjYSIGgdyu2SHIgSquPZ8Z-YFZj0BLW01FWThysbgmgimh7QGgpCYWlyZXNNZXNoKAEwAToCCBASDwgBOAZACUgBUB5oAcgGAQ)
+
 ### Australia
 **[`^        back to top        ^`](#awesome-meshtastic)**
 
