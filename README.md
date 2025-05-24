@@ -44,6 +44,7 @@ Note: Meshtastic® is a registered trademark of [Meshtastic LLC](https://meshtas
   - [The Netherlands](#the-netherlands)
   - [South Africa](#south-africa)
   - [Poland](#poland)
+  - [Romania](#romania)
   - [Taiwan](#taiwan)
   - [Türkiye](#türkiye)
   - [Ukraine](#ukraine)
@@ -251,6 +252,11 @@ For online communities, forums and gathering places, that are not nessisarily ge
 ### Poland
 **[`^        back to top        ^`](#awesome-meshtastic)**
 - [Meshtastic Poland (Matrix)](https://matrix.to/#/#meshtasticpl:matrix.org)
+
+### Romania
+**[`^        back to top        ^`](#awesome-meshtastic)**
+- [Meshtastic Romania](https://www.facebook.com/groups/2194841810874220)
+- [Meshtastic Iași](https://www.facebook.com/groups/669246748941068)
 
 ### South Africa
 **[`^        back to top        ^`](#awesome-meshtastic)**
