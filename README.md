@@ -94,6 +94,7 @@ A collection of useful guides and getting started information for the new Meshta
 - ["Getting Started with Meshtastic" by The Comms Channel (YouTube)](https://www.youtube.com/playlist?list=PLshzThxhw4O5JTOACGHzYSSd3soDhoXKK)
 - [Antenna Reports](https://github.com/meshtastic/antenna-reports) - Official Meshtastic community antenna reports
 - [Meshtastic RF Connector Types](https://pole1.co.uk/blog/5/) - Visual dictionary of RF connector types commonly found on Meshtastic radios and antennas. Many detailed macro photos.
+- [Meshtastic Quick-Start Video Guide (iOS)](https://www.youtube.com/watch?v=IoaoYbrdtlU) - Short video showing radio setup and basic functions on iOS App
 
 ## Maps and Diagnostics
 
@@ -158,6 +159,7 @@ Reputable stores that provide quality hardware only.
 - [LILYGO on AliExpress](https://lilygo.aliexpress.com/store/1101195566)
 - [Spec5](https://specfive.com)
 - [AT Labs](https://at-labs.tech)
+- [CommsForAll](https://commsforall.com)
   
 ## Communities
 
@@ -318,6 +320,7 @@ For online communities, forums and gathering places, that are not nessisarily ge
 
 #### Florida
 - [Florida Meshtastic](https://discord.gg/WRcfFH4sGz)
+- [JAXMesh](https://jaxmesh.com/)
 
 #### Hawaii
 - [Hawaii Meshnet](https://www.hawaiimesh.net/)
