@@ -23,7 +23,9 @@ Note: Meshtastic® is a registered trademark of [Meshtastic LLC](https://meshtas
 - [Hardware Stores](#hardware-stores)
 - [Communities](#communities)
   - [Virtual](#virtual)
+  - [Argentina](#argentina)
   - [Australia](#australia)
+  - [Belgium](#belgium)
   - [Canada](#canada)
     - [Alberta](#alberta)
     - [British Columbia](#british-columbia)
@@ -180,6 +182,13 @@ For online communities, forums and gathering places, that are not nessisarily ge
 - [Meshtastic Argentina (Telegram)](https://t.me/meshtastic_argentina/)
 - [Meshtastic Argentina Community (Github)](https://github.com/Meshtastic-Argentina/)
 - [BairesMesh (Channel)](https://meshtastic.org/e/#CjYSIGgdyu2SHIgSquPZ8Z-YFZj0BLW01FWThysbgmgimh7QGgpCYWlyZXNNZXNoKAEwAToCCBASDwgBOAZACUgBUB5oAcgGAQ)
+
+### Belgium
+**[`^        back to top        ^`](#awesome-meshtastic)**
+
+- [Meshtastic BE (Facebook)](https://www.facebook.com/groups/368474532644811/) - Facebook group for 868MHz in Belgium
+- [ON-tastic (Facebook)](https://www.facebook.com/groups/1159312151703920) - Facebook group for 433MHz in Belgium (Hams)
+- [Discord Connect Post (Meshtastic Discord Connect channel/post)](https://discord.com/channels/867578229534359593/1203735828707156020) - The Belgium post in the connect channel of the official Meshtatic Discord server
 
 ### Australia
 **[`^        back to top        ^`](#awesome-meshtastic)**
