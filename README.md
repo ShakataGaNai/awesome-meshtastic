@@ -36,6 +36,7 @@ Note: Meshtastic® is a registered trademark of [Meshtastic LLC](https://meshtas
     - [Prince Edward Island](#prince-edward-island)
     - [Quebec](#quebec)
     - [Saskatchewan](#saskatchewan)
+  - [China](#china)
   - [Finland](#finland)
   - [Germany](#germany)
   - [India](#india)
@@ -240,6 +241,10 @@ For online communities, forums and gathering places, that are not nessisarily ge
 
 #### Saskatchewan
 - [Mesht Saskatchewan (Telegram)](https://t.me/MeshtSaska)
+
+### China
+**[`^        back to top        ^`](#awesome-meshtastic)**
+- [MeshCN](https://meshcn.net/)
 
 ### Finland
 **[`^        back to top        ^`](#awesome-meshtastic)**
