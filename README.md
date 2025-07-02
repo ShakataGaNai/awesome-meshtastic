@@ -53,6 +53,7 @@ Note: Meshtastic® is a registered trademark of [Meshtastic LLC](https://meshtas
   - [Ukraine](#ukraine)
   - [United Kingdom](#united-kingdom)
   - [USA](#usa)
+    - [Arizona](#arizona)
     - [Arkansas](#arkansas)
     - [California](#california)
     - [Colorado](#colorado)
@@ -318,6 +319,9 @@ For online communities, forums and gathering places, that are not nessisarily ge
 
 ### USA
 **[`^        back to top        ^`](#awesome-meshtastic)**
+
+### Arizona
+- [Arizona Meshtastic Community (Website)](https://azmsh.net/index.html)
 
 ### Alabama
 - [Birmingham Mesh](https://birminghammesh.org/) - Birmingham
