@@ -46,6 +46,7 @@ Note: Meshtastic® is a registered trademark of [Meshtastic LLC](https://meshtas
   - [Lithuania](#lithuania)
   - [The Netherlands](#the-netherlands)
   - [South Africa](#south-africa)
+  - [Sweden](#sweden)
   - [Poland](#poland)
   - [Romania](#romania)
   - [Taiwan](#taiwan)
@@ -173,6 +174,7 @@ Reputable stores that provide quality hardware only.
 - [Spec5](https://specfive.com)
 - [AT Labs](https://at-labs.tech)
 - [CommsForAll](https://commsforall.com)
+- [PileupDX](https://pileupdx.com/product-category/brands/meshtastic/) - Based in Stockholm, Sweden
   
 ## Communities
 
@@ -295,6 +297,12 @@ For online communities, forums and gathering places, that are not nessisarily ge
 **[`^        back to top        ^`](#awesome-meshtastic)**
 - [Meshtastic ZA (Discord)](https://discord.gg/tKGFwFYvsT)
 - [ZA MeshInfo](https://mesh.zr1rf.za.net/)
+
+### Sweden
+**[`^        back to top        ^`](#awesome-meshtastic)**
+- [Sweden Mesh](https://www.meshat.se/)
+- [STHLM-MESH Mesh](https://sthlm-mesh.se/) - Stockholm
+- [GBG Mesh](https://gbg-mesh.se/) - Gothenburg
 
 ### Taiwan
 **[`^        back to top        ^`](#awesome-meshtastic)**
