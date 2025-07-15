@@ -25,6 +25,7 @@ Note: Meshtastic® is a registered trademark of [Meshtastic LLC](https://meshtas
   - [Virtual](#virtual)
   - [Argentina](#argentina)
   - [Australia](#australia)
+  - [Austria](#austria)
   - [Belgium](#belgium)
   - [Canada](#canada)
     - [Alberta](#alberta)
@@ -195,6 +196,11 @@ For online communities, forums and gathering places, that are not nessisarily ge
 - [Meshtastic Argentina (Telegram)](https://t.me/meshtastic_argentina/)
 - [Meshtastic Argentina Community (Github)](https://github.com/Meshtastic-Argentina/)
 - [BairesMesh (Channel)](https://meshtastic.org/e/#CjYSIGgdyu2SHIgSquPZ8Z-YFZj0BLW01FWThysbgmgimh7QGgpCYWlyZXNNZXNoKAEwAToCCBASDwgBOAZACUgBUB5oAcgGAQ)
+
+### Austria
+**[`^        back to top        ^`](#awesome-meshtastic)**
+
+- [Meshtastic Austria](https://meshtastic.at) - Website of a user group dedicated to promoting and supporting the Meshtastic® open-source project
 
 ### Belgium
 **[`^        back to top        ^`](#awesome-meshtastic)**
