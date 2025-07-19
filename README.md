@@ -40,6 +40,7 @@ Note: Meshtastic® is a registered trademark of [Meshtastic LLC](https://meshtas
     - [Quebec](#quebec)
     - [Saskatchewan](#saskatchewan)
   - [China](#china)
+  - [Colombia](#colombia)
   - [Finland](#finland)
   - [Germany](#germany)
   - [India](#india)
@@ -263,6 +264,10 @@ For online communities, forums and gathering places, that are not nessisarily ge
 ### China
 **[`^        back to top        ^`](#awesome-meshtastic)**
 - [MeshCN](https://meshcn.net/)
+
+### Colombia
+**[`^        back to top        ^`](#awesome-meshtastic)**
+- [Meshtastic Colombia Community](https://meshcolombia.co/)
 
 ### Finland
 **[`^        back to top        ^`](#awesome-meshtastic)**
