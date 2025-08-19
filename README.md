@@ -60,6 +60,7 @@ Note: Meshtastic® is a registered trademark of [Meshtastic LLC](https://meshtas
     - [Arkansas](#arkansas)
     - [California](#california)
     - [Colorado](#colorado)
+    - [Delaware](#delaware)
     - [Florida](#florida)
     - [Hawaii](#hawaii)
     - [Illinois](#illinois)
@@ -363,6 +364,9 @@ For online communities, forums and gathering places, that are not nessisarily ge
 #### Colorado
 - [Denver Mesh](https://denvermesh.org/)
 - [Longmont Mesh](https://longmont.localmesh.org/)
+
+#### Delaware
+- [Delaware Meshtastic User Group](https://deme.sh)
 
 #### Florida
 - [Florida Meshtastic](https://discord.gg/WRcfFH4sGz)
