@@ -299,6 +299,7 @@ For online communities, forums and gathering places, that are not nessisarily ge
 ### Poland
 **[`^        back to top        ^`](#awesome-meshtastic)**
 - [Meshtastic Poland (Matrix)](https://matrix.to/#/#meshtasticpl:matrix.org)
+- [Meshtastic Info (https://meshtastic.info.pl)
 
 ### Romania
 **[`^        back to top        ^`](#awesome-meshtastic)**
