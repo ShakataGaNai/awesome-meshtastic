@@ -70,6 +70,7 @@ Note: Meshtastic® is a registered trademark of [Meshtastic LLC](https://meshtas
     - [Oklahoma](#oklahoma)
     - [Tennessee](#tennessee)
     - [Texas](#texas)
+    - [Utah](#utah)
     - [Virginia](#virginia)
     - [Washington](#washington)
 
@@ -399,6 +400,9 @@ For online communities, forums and gathering places, that are not nessisarily ge
 
 #### Texas
 - [Austin Mesh](https://austinmesh.org/)
+
+#### Utah
+- [Intermountain Mesh](https://freq51.net/)
 
 #### Virginia
 - [Northern Virginia Meshtastic](https://groups.io/g/NoVa-Meshtastic)
