@@ -380,6 +380,9 @@ For online communities, forums and gathering places, that are not nessisarily ge
 - [Chicagoland Meshtastic](https://chicagolandmesh.org/)
 - [Clark County Illinois Meshtastic Network](https://clarkcountyill.localmesh.org/doku.php?id=start)
 
+#### Louisiana
+- [Louisiana Mesh Community](https://louisianamesh.org/)
+  
 #### Massachusetts
 - [Boston Meshnet (Facebook)](https://www.facebook.com/groups/376287875353461/)
 
