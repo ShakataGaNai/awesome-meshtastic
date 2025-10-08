@@ -63,6 +63,7 @@ Note: Meshtastic® is a registered trademark of [Meshtastic LLC](https://meshtas
     - [Delaware](#delaware)
     - [Florida](#florida)
     - [Hawaii](#hawaii)
+    - [Idaho](#idaho)
     - [Illinois](#illinois)
     - [Massachusetts](#massachusetts)
     - [Michigan](#michigan)
@@ -375,6 +376,9 @@ For online communities, forums and gathering places, that are not nessisarily ge
 
 #### Hawaii
 - [Hawaii Meshnet](https://www.hawaiimesh.net/)
+
+#### Idaho
+- [Intermountain Mesh](https://freq51.net/)
 
 #### Illinois
 - [Chicagoland Meshtastic](https://chicagolandmesh.org/)
