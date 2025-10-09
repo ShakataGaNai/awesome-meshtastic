@@ -42,6 +42,7 @@ Note: Meshtastic® is a registered trademark of [Meshtastic LLC](https://meshtas
   - [China](#china)
   - [Colombia](#colombia)
   - [Finland](#finland)
+  - [France](#france)
   - [Germany](#germany)
   - [India](#india)
   - [Italy](#italy)
@@ -275,6 +276,10 @@ For online communities, forums and gathering places, that are not nessisarily ge
 ### Finland
 **[`^        back to top        ^`](#awesome-meshtastic)**
 - [Mesh-Finland](https://mesh-finland.github.io) - [Discord](https://discord.com/invite/GHnaVAjqed)
+
+### France
+**[`^        back to top        ^`](#awesome-meshtastic)**
+- [Gaulix](https://gaulix.fr/) - [Matrix](https://matrix.to/#/#gaulix:matrix.org) - [Mastodon : @Gaulix](https://mastodon.social/@Gaulix)
 
 ### Germany
 **[`^        back to top        ^`](#awesome-meshtastic)**
