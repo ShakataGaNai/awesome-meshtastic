@@ -66,6 +66,7 @@ Note: Meshtastic® is a registered trademark of [Meshtastic LLC](https://meshtas
     - [Hawaii](#hawaii)
     - [Idaho](#idaho)
     - [Illinois](#illinois)
+    - [Louisiana](#louisiana)
     - [Massachusetts](#massachusetts)
     - [Michigan](#michigan)
     - [New Mexico](#new-mexico)
