@@ -70,7 +70,9 @@ Note: Meshtastic® is a registered trademark of [Meshtastic LLC](https://meshtas
     - [Massachusetts](#massachusetts)
     - [Michigan](#michigan)
     - [New Mexico](#new-mexico)
+    - [North Carolina](#north-carolina)
     - [Oklahoma](#oklahoma)
+    - [South Carolina](#south-carolina)
     - [Tennessee](#tennessee)
     - [Texas](#texas)
     - [Utah](#utah)
@@ -408,6 +410,9 @@ For online communities, forums and gathering places, that are not nessisarily ge
 
 #### Oklahoma
 - [Oklahoma Meshtastic (Facebook)](https://www.facebook.com/groups/942404880478488)
+
+#### South Carolina
+- [SC Mesh](https://www.scmesh.us/)
 
 #### Tennessee
 - [Meshville](https://meshville.org/) - Nashville
