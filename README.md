@@ -120,6 +120,10 @@ Tools for the every-user to see whats going on in general.
 - [Meshmap.net](https://meshmap.net/) - [Source code](https://github.com/brianshea2/meshmap.net)
 - [MeshSense Global Map](https://meshsense.affirmatech.com/) - [Source code](https://github.com/Affirmatech/MeshSense)
 
+### Federated
+
+- [PotatoMesh](https://potatomesh.net/) - [Source code](https://github.com/l5yth/potato-mesh)
+
 ### Regional
 
 - [Bay Area Meshview](https://meshview.bayme.sh/map)
