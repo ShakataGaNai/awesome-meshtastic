@@ -140,6 +140,7 @@ For software tools developed specifically for meshtastic but probably require ru
 - [TC2-BBS-mesh by TheCommsChannel](https://github.com/TheCommsChannel/TC2-BBS-mesh) - Do you miss the good old days of dial up BBS? Now you can have one via mesh!
 - [Frozen BBS](https://github.com/kstrauser/frozenbbs) - Another BBS Implementation (written in Rust)
 - [Meshtastic-Matrix-Relay](https://github.com/geoffwhittington/meshtastic-matrix-relay) - Meshtastic to Matrix Relay
+- [Meshmonitor](https://meshmonitor.org/) - A powerful web application for monitoring Meshtastic nodes over IP with real-time updates, interactive maps, and comprehensive network analytics.
 
 ## Local Software
 
