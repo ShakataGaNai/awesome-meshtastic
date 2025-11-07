@@ -51,6 +51,7 @@ Note: Meshtastic® is a registered trademark of [Meshtastic LLC](https://meshtas
   - [South Africa](#south-africa)
   - [Sweden](#sweden)
   - [Poland](#poland)
+  - [Portugal](#portugal)
   - [Romania](#romania)
   - [Taiwan](#taiwan)
   - [Türkiye](#türkiye)
@@ -308,6 +309,13 @@ For online communities, forums and gathering places, that are not nessisarily ge
 **[`^        back to top        ^`](#awesome-meshtastic)**
 - [Meshtastic Poland (Matrix)](https://matrix.to/#/#meshtasticpl:matrix.org)
 - [Meshtastic Info](https://meshtastic.info.pl)
+
+### Portugal
+**[`^        back to top        ^`](#awesome-meshtastic)**
+- [Meshtastic PT](https://meshtastic.pt)
+- [Comunidade Meshtastic Portugal 🇵🇹 (Telegram)](https://t.me/comunidademeshtasticpt)
+- [Mapa Meshtastic PT](https://meshtastic.pt/map)
+- [Malha Meshtastic.PT](https://malha.meshtastic.pt)
 
 ### Romania
 **[`^        back to top        ^`](#awesome-meshtastic)**
