@@ -70,6 +70,7 @@ Note: Meshtastic® is a registered trademark of [Meshtastic LLC](https://meshtas
     - [Louisiana](#louisiana)
     - [Massachusetts](#massachusetts)
     - [Michigan](#michigan)
+    - [Nevada](#nevada)
     - [New Mexico](#new-mexico)
     - [Oklahoma](#oklahoma)
     - [Tennessee](#tennessee)
@@ -407,6 +408,9 @@ For online communities, forums and gathering places, that are not nessisarily ge
 
 #### Michigan
 - [Michigan Meshtastic Network (Discord)](https://discord.gg/3A5RREcBcc)
+
+#### Nevada
+- [MeshEnvy](https://meshenvy.org)
 
 #### New Mexico
 - [Albuquerque Mesh](https://www.abqm.net)
