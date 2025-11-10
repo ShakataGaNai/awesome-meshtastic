@@ -309,6 +309,11 @@ For online communities, forums and gathering places, that are not nessisarily ge
 - [Meshtastic Netherlands (Telegram)](https://t.me/meshtastic_nl)
 - [MeshNet Meshtastic Netherlands Community](https://www.meshnet.nl)
 
+### New Zealand
+**[`^        back to top        ^`](#awesome-meshtastic)**
+
+- [Meshtastic Community New Zealand](https://meshtastic.nz/) - Local group and settings for New Zealand users
+
 ### Poland
 **[`^        back to top        ^`](#awesome-meshtastic)**
 - [Meshtastic Poland (Matrix)](https://matrix.to/#/#meshtasticpl:matrix.org)
