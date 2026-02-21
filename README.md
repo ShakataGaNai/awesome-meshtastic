@@ -295,7 +295,7 @@ For online communities, forums and gathering places, that are not nessisarily ge
 ### Greece
 **[`^        back to top        ^`](#awesome-meshtastic)**
 - [MeshGreece](https://www.meshgreece.org)
-- [MeshGreece Discord](https://discord.com/invite/ACZDCcX7)
+- [MeshGreece Discord](https://discord.com/invite/dzHQSVe8EV)
 
 ### India
 **[`^        back to top        ^`](#awesome-meshtastic)**
