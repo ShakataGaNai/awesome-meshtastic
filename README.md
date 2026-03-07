@@ -50,16 +50,17 @@ Note: Meshtastic® is a registered trademark of [Meshtastic LLC](https://meshtas
   - [Lithuania](#lithuania)
   - [The Netherlands](#the-netherlands)
   - [New Zealand](#new-zealand)
-  - [South Africa](#south-africa)
-  - [Sweden](#sweden)
   - [Poland](#poland)
   - [Portugal](#portugal)
   - [Romania](#romania)
+  - [South Africa](#south-africa)
+  - [Sweden](#sweden)
   - [Taiwan](#taiwan)
   - [Türkiye](#türkiye)
   - [Ukraine](#ukraine)
   - [United Kingdom](#united-kingdom)
   - [USA](#usa)
+    - [Alabama](#alabama)
     - [Arizona](#arizona)
     - [Arkansas](#arkansas)
     - [California](#california)
@@ -204,7 +205,7 @@ Reputable stores that provide quality hardware only.
 All the local meshtastic communities. See also: [Local Groups on Meshtastic.org](https://meshtastic.org/docs/community/local-groups/)
 
 ### Virtual
-**[`^        back to top        ^`](#virtual)**
+**[`^        back to top        ^`](#awesome-meshtastic)**
 
 For online communities, forums and gathering places, that are not nessisarily geographically specific.
 
@@ -217,6 +218,15 @@ For online communities, forums and gathering places, that are not nessisarily ge
 - [Meshtastic Argentina Community (Github)](https://github.com/Meshtastic-Argentina/)
 - [BairesMesh (Channel)](https://meshtastic.org/e/#CjYSIGgdyu2SHIgSquPZ8Z-YFZj0BLW01FWThysbgmgimh7QGgpCYWlyZXNNZXNoKAEwAToCCBASDwgBOAZACUgBUB5oAcgGAQ)
 
+### Australia
+**[`^        back to top        ^`](#awesome-meshtastic)**
+
+- [Canberra Meshtastic Community (Discord)](https://discord.gg/4QgFsuaC3Z)
+- [Meshtastic User Group Tasmania (Facebook)](https://www.facebook.com/groups/1556630645195649)
+- [Meshtastic Sydney (Facebook)](https://www.facebook.com/groups/1041534027106861)
+- [Meshtastic Australia (Facebook)](https://www.facebook.com/groups/1169993994163108)
+- [Meshtastic Victoria (Facebook - Private)](https://www.facebook.com/groups/meshtasticvictoria)
+
 ### Austria
 **[`^        back to top        ^`](#awesome-meshtastic)**
 
@@ -228,15 +238,6 @@ For online communities, forums and gathering places, that are not nessisarily ge
 - [Meshtastic BE (Facebook)](https://www.facebook.com/groups/368474532644811/) - Facebook group for 868MHz in Belgium
 - [ON-tastic (Facebook)](https://www.facebook.com/groups/1159312151703920) - Facebook group for 433MHz in Belgium (Hams)
 - [Discord Connect Post (Meshtastic Discord Connect channel/post)](https://discord.com/channels/867578229534359593/1203735828707156020) - The Belgium post in the connect channel of the official Meshtatic Discord server
-
-### Australia
-**[`^        back to top        ^`](#awesome-meshtastic)**
-
-- [Canberra Meshtastic Community (Discord)](https://discord.gg/4QgFsuaC3Z)
-- [Meshtastic User Group Tasmania (Facebook)](https://www.facebook.com/groups/1556630645195649)
-- [Meshtastic Sydney (Facebook)](https://www.facebook.com/groups/1041534027106861)
-- [Meshtastic Australia (Facebook)](https://www.facebook.com/groups/1169993994163108)
-- [Meshtastic Victoria (Facebook - Private)](https://www.facebook.com/groups/meshtasticvictoria)
 
 ### Canada
 **[`^        back to top        ^`](#awesome-meshtastic)**
@@ -302,8 +303,7 @@ For online communities, forums and gathering places, that are not nessisarily ge
 
 ### Greece
 **[`^        back to top        ^`](#awesome-meshtastic)**
-- [MeshGreece](https://www.meshgreece.org)
-- [MeshGreece Discord](https://discord.com/invite/dzHQSVe8EV)
+- [MeshGreece](https://www.meshgreece.org) - [Discord](https://discord.com/invite/dzHQSVe8EV)
 
 ### India
 **[`^        back to top        ^`](#awesome-meshtastic)**
@@ -381,11 +381,11 @@ For online communities, forums and gathering places, that are not nessisarily ge
 ### USA
 **[`^        back to top        ^`](#awesome-meshtastic)**
 
-### Arizona
-- [Arizona Meshtastic Community (Website)](https://azmsh.net/index.html)
-
-### Alabama
+#### Alabama
 - [Birmingham Mesh](https://birminghammesh.org/) - Birmingham
+
+#### Arizona
+- [Arizona Meshtastic Community (Website)](https://azmsh.net/index.html)
 
 #### Arkansas
 - [Fab Lab Fort Smith (Discord)](https://discord.com/invite/nwsvcXeqMX) - Fort Smith
