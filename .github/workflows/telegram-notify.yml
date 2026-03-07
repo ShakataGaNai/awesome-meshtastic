@@ -1,0 +1,40 @@
+name: Telegram Notifications
+
+on:
+  issues:
+    types: [opened]
+  pull_request:
+    types: [opened]
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send Telegram notification
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          if [ "${{ github.event_name }}" = "issues" ]; then
+            TYPE="Issue"
+            TITLE="${{ github.event.issue.title }}"
+            URL="${{ github.event.issue.html_url }}"
+            AUTHOR="${{ github.event.issue.user.login }}"
+            NUMBER="${{ github.event.issue.number }}"
+          else
+            TYPE="Pull Request"
+            TITLE="${{ github.event.pull_request.title }}"
+            URL="${{ github.event.pull_request.html_url }}"
+            AUTHOR="${{ github.event.pull_request.user.login }}"
+            NUMBER="${{ github.event.pull_request.number }}"
+          fi
+
+          MESSAGE="*New ${TYPE} #${NUMBER}*
+          Title: ${TITLE}
+          By: ${AUTHOR}
+          ${URL}"
+
+          curl -s -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
+            -d chat_id="${TELEGRAM_CHAT_ID}" \
+            -d parse_mode="Markdown" \
+            -d text="${MESSAGE}"
