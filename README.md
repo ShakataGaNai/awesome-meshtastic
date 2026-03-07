@@ -74,6 +74,7 @@ Note: Meshtastic® is a registered trademark of [Meshtastic LLC](https://meshtas
     - [Nevada](#nevada)
     - [New Mexico](#new-mexico)
     - [North Carolina](#north-carolina)
+    - [Ohio](#ohio)
     - [Oklahoma](#oklahoma)
     - [South Carolina](#south-carolina)
     - [Tennessee](#tennessee)
@@ -426,6 +427,9 @@ For online communities, forums and gathering places, that are not nessisarily ge
 
 #### North Carolina
 - [North Carolina Mesh](https://ncmesh.net)
+
+#### Ohio
+- [Northeast Ohio Mesh](https://neome.sh)
 
 #### Oklahoma
 - [Oklahoma Meshtastic (Facebook)](https://www.facebook.com/groups/942404880478488)
