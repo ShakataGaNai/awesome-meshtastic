@@ -5,8 +5,8 @@
 
 Note: Meshtastic® is a registered trademark of [Meshtastic LLC](https://meshtastic.org/docs/legal/licensing-and-trademark/). Use in this repository is for reference only and does not imply sponsorship or endorsement by Meshtastic LLC.
 
-## How to Contribute? 
-* Option #1 - [File a PR](https://github.com/ShakataGaNai/awesome-meshtastic/pulls). 
+## How to Contribute?
+* Option #1 - [File a PR](https://github.com/ShakataGaNai/awesome-meshtastic/pulls).
 * Option #2 - [Create an issue](https://github.com/ShakataGaNai/awesome-meshtastic/issues)
 * Option #3 - Join the offical [Meshtastic Discord](https://discord.com/invite/ktMAKGBnBs) and post in the [Awesome Meshtastic project](https://discord.com/channels/867578229534359593/1246235089281749053)
 
@@ -24,9 +24,13 @@ Note: Meshtastic® is a registered trademark of [Meshtastic LLC](https://meshtas
 - [Communities](#communities)
   - [Virtual](#virtual)
   - [Argentina](#argentina)
+  - [Armenia](#armenia)
   - [Australia](#australia)
   - [Austria](#austria)
+  - [Bahamas](#bahamas)
   - [Belgium](#belgium)
+  - [Brazil](#brazil)
+  - [Bulgaria](#bulgaria)
   - [Canada](#canada)
     - [Alberta](#alberta)
     - [British Columbia](#british-columbia)
@@ -39,23 +43,41 @@ Note: Meshtastic® is a registered trademark of [Meshtastic LLC](https://meshtas
     - [Prince Edward Island](#prince-edward-island)
     - [Quebec](#quebec)
     - [Saskatchewan](#saskatchewan)
+  - [Chile](#chile)
   - [China](#china)
   - [Colombia](#colombia)
+  - [Croatia](#croatia)
+  - [Denmark](#denmark)
+  - [Estonia](#estonia)
   - [Finland](#finland)
   - [France](#france)
   - [Germany](#germany)
   - [Greece](#greece)
+  - [Hungary](#hungary)
   - [India](#india)
+  - [Indonesia](#indonesia)
+  - [Ireland](#ireland)
+  - [Israel](#israel)
   - [Italy](#italy)
+  - [Japan](#japan)
+  - [Latvia](#latvia)
   - [Lithuania](#lithuania)
+  - [Malta](#malta)
+  - [Mexico](#mexico)
   - [The Netherlands](#the-netherlands)
   - [New Zealand](#new-zealand)
+  - [Norway](#norway)
   - [Poland](#poland)
   - [Portugal](#portugal)
   - [Romania](#romania)
+  - [Russia](#russia)
+  - [Singapore](#singapore)
+  - [Slovenia](#slovenia)
   - [South Africa](#south-africa)
+  - [Spain](#spain)
   - [Sweden](#sweden)
   - [Taiwan](#taiwan)
+  - [Thailand](#thailand)
   - [Türkiye](#türkiye)
   - [Ukraine](#ukraine)
   - [United Kingdom](#united-kingdom)
@@ -65,20 +87,36 @@ Note: Meshtastic® is a registered trademark of [Meshtastic LLC](https://meshtas
     - [Arkansas](#arkansas)
     - [California](#california)
     - [Colorado](#colorado)
+    - [Connecticut](#connecticut)
     - [Delaware](#delaware)
     - [Florida](#florida)
+    - [Georgia](#georgia)
     - [Hawaii](#hawaii)
     - [Idaho](#idaho)
     - [Illinois](#illinois)
     - [Indiana](#indiana)
+    - [Iowa](#iowa)
+    - [Kansas](#kansas)
+    - [Kentucky](#kentucky)
     - [Louisiana](#louisiana)
+    - [Maine](#maine)
     - [Massachusetts](#massachusetts)
     - [Michigan](#michigan)
+    - [Minnesota](#minnesota)
+    - [Mississippi](#mississippi)
+    - [Missouri](#missouri)
+    - [Montana](#montana)
     - [Nevada](#nevada)
+    - [New Hampshire](#new-hampshire)
     - [New Mexico](#new-mexico)
+    - [New York](#new-york)
     - [North Carolina](#north-carolina)
+    - [North Dakota](#north-dakota)
     - [Ohio](#ohio)
     - [Oklahoma](#oklahoma)
+    - [Oregon](#oregon)
+    - [Pennsylvania](#pennsylvania)
+    - [Puerto Rico](#puerto-rico)
     - [South Carolina](#south-carolina)
     - [South Dakota](#south-dakota)
     - [Tennessee](#tennessee)
@@ -86,6 +124,8 @@ Note: Meshtastic® is a registered trademark of [Meshtastic LLC](https://meshtas
     - [Utah](#utah)
     - [Virginia](#virginia)
     - [Washington](#washington)
+    - [Washington DC](#washington-dc)
+    - [Wisconsin](#wisconsin)
 
 
 --------------------
@@ -148,7 +188,7 @@ For software tools developed specifically for meshtastic but probably require ru
 
 - [Meshview by pablorevilla](https://github.com/pablorevilla-meshtastic/meshview) - A project watches a MQTT topic for meshtastic messages, imports them to a database and has a web UI to view them. [Example on BayMesh](https://meshview.bayme.sh/)
 - [Meshinfo by kevinelliott](https://github.com/kevinelliott/meshinfo) - A project written in Python and connects to an MQTT server that is receiving Meshtastic messages for the purpose of visualizing and inspecting traffic. [Example on SacValleyMesh](https://svm.meshinfo.network/mqtt_log.html)
-- [bayme.sh-bot by ppicazo](https://github.com/ppicazo/bayme.sh-bot) - An MQTT to Discord logger bot for local meshes. 
+- [bayme.sh-bot by ppicazo](https://github.com/ppicazo/bayme.sh-bot) - An MQTT to Discord logger bot for local meshes.
 - [meshtastic-ha-entity-builder](https://github.com/pdxlocations/meshtastic-ha-entity-builder) - Builds entities from stored nodes using the [Meshtastic Home Assistant Integration](https://meshtastic.org/docs/software/integrations/mqtt/home-assistant/)
 - [meshtastic-new-node-processing by StevoKeano](https://github.com/StevoKeano/meshtastic-new-node-processing/) - Created by the AustinMesh team to welcome new users to the public mesh and direct them to help/resources.
 - [TC2-BBS-mesh by TheCommsChannel](https://github.com/TheCommsChannel/TC2-BBS-mesh) - Do you miss the good old days of dial up BBS? Now you can have one via mesh!
@@ -198,7 +238,7 @@ Reputable stores that provide quality hardware only.
 - [AT Labs](https://at-labs.tech)
 - [CommsForAll](https://commsforall.com)
 - [PileupDX](https://pileupdx.com/product-category/brands/meshtastic/) - Based in Stockholm, Sweden
-  
+
 ## Communities
 
 **[`^        back to top        ^`](#awesome-meshtastic)**
@@ -219,32 +259,56 @@ For online communities, forums and gathering places, that are not nessisarily ge
 - [Meshtastic Argentina Community (Github)](https://github.com/Meshtastic-Argentina/)
 - [BairesMesh (Channel)](https://meshtastic.org/e/#CjYSIGgdyu2SHIgSquPZ8Z-YFZj0BLW01FWThysbgmgimh7QGgpCYWlyZXNNZXNoKAEwAToCCBASDwgBOAZACUgBUB5oAcgGAQ)
 
+### Armenia
+**[`^        back to top        ^`](#awesome-meshtastic)**
+- [Armenia Mesh (Telegram)](https://t.me/armeniamesh)
+
 ### Australia
 **[`^        back to top        ^`](#awesome-meshtastic)**
 
 - [Canberra Meshtastic Community (Discord)](https://discord.gg/4QgFsuaC3Z)
 - [Meshtastic User Group Tasmania (Facebook)](https://www.facebook.com/groups/1556630645195649)
 - [Meshtastic Sydney (Facebook)](https://www.facebook.com/groups/1041534027106861)
+- [Sydney Mesh Users Group](https://nswmesh.au)
+- [Meshtastic Brisbane User Group (Discord)](https://discord.com/invite/rN66wEedMY)
 - [Meshtastic Australia (Facebook)](https://www.facebook.com/groups/1169993994163108)
 - [Meshtastic Victoria (Facebook - Private)](https://www.facebook.com/groups/meshtasticvictoria)
+- [South Australia Meshtastic User Group (Discord)](https://discord.gg/sauMmjJpTB)
 
 ### Austria
 **[`^        back to top        ^`](#awesome-meshtastic)**
 
 - [Meshtastic Austria](https://meshtastic.at) - Website of a user group dedicated to promoting and supporting the Meshtastic® open-source project
 
+### Bahamas
+**[`^        back to top        ^`](#awesome-meshtastic)**
+- [Mesh Bahamas](https://mesh.bs)
+
 ### Belgium
 **[`^        back to top        ^`](#awesome-meshtastic)**
 
 - [Meshtastic BE (Facebook)](https://www.facebook.com/groups/368474532644811/) - Facebook group for 868MHz in Belgium
 - [ON-tastic (Facebook)](https://www.facebook.com/groups/1159312151703920) - Facebook group for 433MHz in Belgium (Hams)
+- [BE Mesh (Telegram)](https://t.me/be_mesh)
 - [Discord Connect Post (Meshtastic Discord Connect channel/post)](https://discord.com/channels/867578229534359593/1203735828707156020) - The Belgium post in the connect channel of the official Meshtatic Discord server
+- [Liège Mesh](https://tchiniss.net/)
+
+### Brazil
+**[`^        back to top        ^`](#awesome-meshtastic)**
+- [Comunidade Meshtastic Brasil (Telegram)](https://t.me/+xS_5ZqDoP6BlODNh)
+
+### Bulgaria
+**[`^        back to top        ^`](#awesome-meshtastic)**
+- [Meshtastic BG Community (Facebook)](https://facebook.com/groups/meshtasticbulgaria)
+- [Bulgaria Channel](https://mesh.motaba.net)
+- [Burgas Mesh (Discord)](https://discord.gg/Kbs233rmq3)
 
 ### Canada
 **[`^        back to top        ^`](#awesome-meshtastic)**
 
 - [Canada Mesh Wiki](https://wiki.mt.gt/)
 - [Mesh Canada (Telegram)](https://t.me/meshtastic_canada)
+- [LoRaMesh Canada](https://loramesh.ca/)
 
 #### Alberta
 - [YYC Mesh](https://yycmesh.com/)
@@ -272,15 +336,22 @@ For online communities, forums and gathering places, that are not nessisarily ge
 
 #### Ontario
 - [Mesht Ontario (Telegram)](https://t.me/meshtOnt)
+- [Greater Ottawa Mesh Enthusiasts](https://ottawamesh.ca)
+- [Windsor-Essex Mesh Network (Discord)](https://discord.gg/aNtr5Cjftn)
 
 #### Prince Edward Island
 - [Mesht PEI (Telegram)](https://t.me/MeshtPEI)
 
 #### Quebec
 - [Mesht Quebec (Telegram)](https://t.me/meshtQuebec)
+- [Mesh Montréal](https://lora.reseaulibre.ca/)
 
 #### Saskatchewan
 - [Mesht Saskatchewan (Telegram)](https://t.me/MeshtSaska)
+
+### Chile
+**[`^        back to top        ^`](#awesome-meshtastic)**
+- [MeshChile Community](https://links.meshchile.cl)
 
 ### China
 **[`^        back to top        ^`](#awesome-meshtastic)**
@@ -289,35 +360,95 @@ For online communities, forums and gathering places, that are not nessisarily ge
 ### Colombia
 **[`^        back to top        ^`](#awesome-meshtastic)**
 - [Meshtastic Colombia Community](https://meshcolombia.co/)
+- [Meshtastic Users Colombia (Telegram)](https://t.me/meshtasticco)
+
+### Croatia
+**[`^        back to top        ^`](#awesome-meshtastic)**
+- [CroMesh](https://cromesh.eu)
+
+### Denmark
+**[`^        back to top        ^`](#awesome-meshtastic)**
+- [Danske Meshtastic Brugere](https://meshbrugere.dk) - [Discord](https://discord.gg/EXWWwDmfBN)
+
+### Estonia
+**[`^        back to top        ^`](#awesome-meshtastic)**
+- [ESTMesh](https://estmesh.ee/en/home) - [Discord](https://discord.gg/Z9u5QcDTfZ)
 
 ### Finland
 **[`^        back to top        ^`](#awesome-meshtastic)**
 - [Mesh-Finland](https://mesh-finland.github.io) - [Discord](https://discord.com/invite/GHnaVAjqed)
+- [MeshAbout](https://www.meshabout.fi/)
 
 ### France
 **[`^        back to top        ^`](#awesome-meshtastic)**
 - [Gaulix](https://gaulix.fr/) - [Matrix](https://matrix.to/#/#gaulix:matrix.org) - [Mastodon : @Gaulix](https://mastodon.social/@Gaulix)
+- [AlsaMesh](https://alsamesh.org)
+- [Collectif Meshtastic France (Facebook)](https://www.facebook.com/groups/meshtastic.france)
+- [Occitanie Meshtastic (Telegram)](https://t.me/occimesh)
+- [Projet d'Interconnection Normand (Discord)](https://discord.gg/HnAfYUSU82)
 
 ### Germany
 **[`^        back to top        ^`](#awesome-meshtastic)**
 - [Meshtastic Users Germany (D-A-CH) (Telegram)](https://t.me/meshtasticgermany) - for technical chat
+- [BerlinMesh (Matrix)](https://matrix.to/#/#berlinmesh:c-base.org)
+- [Mesh Hessen](https://meshhessen.de/) - [Telegram](https://t.me/Mesh_Hessen)
+- [Mesh-NRW](https://mesh-nrw.de/)
+- [Mesh-OWL Community](https://owl-mesh.de/)
+- [Mesh Rheinland](https://www.meshrheinland.de/)
+- [MeshSaar](https://meshsaar.de/)
+- [Munich Mesh](https://munichmesh.de/)
 
 ### Greece
 **[`^        back to top        ^`](#awesome-meshtastic)**
 - [MeshGreece](https://www.meshgreece.org) - [Discord](https://discord.com/invite/dzHQSVe8EV)
+- [Meshtastic Crete (Facebook)](https://www.facebook.com/groups/meshcrete)
+- [Athens Meshtastic Node Runners (Facebook)](https://www.facebook.com/groups/athensmesh)
+
+### Hungary
+**[`^        back to top        ^`](#awesome-meshtastic)**
+- [Hungarian Mesh](https://mesh.creativo.hu/) - [Discord](https://discord.gg/vrdSTQmzMY)
 
 ### India
 **[`^        back to top        ^`](#awesome-meshtastic)**
 - [India Bir Paragliding](https://bircom.in)
+
+### Indonesia
+**[`^        back to top        ^`](#awesome-meshtastic)**
+- [Komunitas MeshNode Indonesia (Instagram)](https://www.instagram.com/meshnodeid)
+
+### Ireland
+**[`^        back to top        ^`](#awesome-meshtastic)**
+- [Mayo Mesh](https://mayomesh.net/)
+
+### Israel
+**[`^        back to top        ^`](#awesome-meshtastic)**
+- [Israel Meshtastic Club](https://www.mesh-il.com)
 
 ### Italy
 **[`^        back to top        ^`](#awesome-meshtastic)**
 - [Meshtastic Italia (Telegram)](https://t.me/meshtastic_italia)
 - [Mesh ITA Club (Discord)](https://discord.gg/ETFmtyzbFT)
 
+### Japan
+**[`^        back to top        ^`](#awesome-meshtastic)**
+- [Meshtastic Japan Community (Facebook)](https://www.facebook.com/share/g/BQCGxZhw9SxFQja8/)
+
+### Latvia
+**[`^        back to top        ^`](#awesome-meshtastic)**
+- [Latvia LoRa Mesh](https://apraide.lv)
+
 ### Lithuania
 **[`^        back to top        ^`](#awesome-meshtastic)**
 - [Meshtastic Lietuva (Facebook)](https://www.facebook.com/groups/1122509422249414)
+
+### Malta
+**[`^        back to top        ^`](#awesome-meshtastic)**
+- [Open Source Society Malta](https://ossmalta.eu/lora)
+
+### Mexico
+**[`^        back to top        ^`](#awesome-meshtastic)**
+- [Meshtastic Mexico Community](https://radioaficionados.mx/meshtastic)
+- [MUG-Mexico (Telegram)](https://t.me/meshtastic_mexico)
 
 ### The Netherlands
 **[`^        back to top        ^`](#awesome-meshtastic)**
@@ -328,11 +459,18 @@ For online communities, forums and gathering places, that are not nessisarily ge
 **[`^        back to top        ^`](#awesome-meshtastic)**
 
 - [Meshtastic Community New Zealand](https://meshtastic.nz/) - Local group and settings for New Zealand users
+- [New Zealand Meshtastic Community (Discord)](https://discord.gg/xb9bBZJUpz)
+
+### Norway
+**[`^        back to top        ^`](#awesome-meshtastic)**
+- [MeshNorway](https://868.no) - [Matrix](https://matrix.to/#/#meshnorway:matrix.org)
 
 ### Poland
 **[`^        back to top        ^`](#awesome-meshtastic)**
 - [Meshtastic Poland (Matrix)](https://matrix.to/#/#meshtasticpl:matrix.org)
 - [Meshtastic Info](https://meshtastic.info.pl)
+- [Meshtastic Warsaw Wiki](https://wiki.868.band/Home)
+- [Radio w plecaku (Discord)](https://discord.gg/RZTGRDSpUX) - Polish Ham & Meshtastic Group
 
 ### Portugal
 **[`^        back to top        ^`](#awesome-meshtastic)**
@@ -346,10 +484,27 @@ For online communities, forums and gathering places, that are not nessisarily ge
 - [Meshtastic Romania](https://www.facebook.com/groups/2194841810874220)
 - [Meshtastic Iași](https://www.facebook.com/groups/669246748941068)
 
+### Russia
+**[`^        back to top        ^`](#awesome-meshtastic)**
+- [Meshtastic Barnaul (Telegram)](https://t.me/lora_mesh_barnaul)
+- [Meshtastic Magnitogorsk (Telegram)](https://t.me/meshtastic_m)
+
+### Singapore
+**[`^        back to top        ^`](#awesome-meshtastic)**
+- [Singapore LPWAN Group (Telegram)](https://t.me/+CIv_dr2IAUNmYWQ1)
+
+### Slovenia
+**[`^        back to top        ^`](#awesome-meshtastic)**
+- [MeshNet.si](https://meshnet.si) - [Discord](https://discord.gg/uHDDE734DD)
+
 ### South Africa
 **[`^        back to top        ^`](#awesome-meshtastic)**
 - [Meshtastic ZA (Discord)](https://discord.gg/tKGFwFYvsT)
 - [ZA MeshInfo](https://mesh.zr1rf.za.net/)
+
+### Spain
+**[`^        back to top        ^`](#awesome-meshtastic)**
+- [Meshtastic Spanish Community (Telegram)](https://t.me/meshtastic_esp)
 
 ### Sweden
 **[`^        back to top        ^`](#awesome-meshtastic)**
@@ -362,9 +517,14 @@ For online communities, forums and gathering places, that are not nessisarily ge
 **[`^        back to top        ^`](#awesome-meshtastic)**
 - [Meshtastic Taiwan Community 臺灣鏈網 (Facebook)](https://www.facebook.com/groups/413628121046386) - [Discord](https://discord.gg/2vZkuckp8E)
 
+### Thailand
+**[`^        back to top        ^`](#awesome-meshtastic)**
+- [Meshtastic User Group Thailand](https://github.com/meshtastic-th) - [Telegram](https://t.me/meshtastic_thailand)
+
 ### Türkiye
 **[`^        back to top        ^`](#awesome-meshtastic)**
 - [TRMesh](https://trmesh.org)
+- [TAMesh](https://tamesh.org/) - [Discord](https://dc.purgatoria.net)
 
 ### Ukraine
 **[`^        back to top        ^`](#awesome-meshtastic)**
@@ -378,18 +538,25 @@ For online communities, forums and gathering places, that are not nessisarily ge
 - [Swansea Meshtastic Group](https://swansea.localmesh.org/) - Wales
 - [UK Meshtastic Berkshire (Facebook)](https://www.facebook.com/groups/1083395923209693)
 - [UK - Berkshire (Meshtastic Offical Discord)](https://discordapp.com/channels/867578229534359593/1201610993462153376)
+- [Mesh Hub UK](https://meshhub.uk/)
+- [New Welsh Mesh](https://welshmesh.pysgod.xyz)
 
 ### USA
 **[`^        back to top        ^`](#awesome-meshtastic)**
 
+- [Midwest Mesh (Discord)](https://discord.gg/wYwD56K439)
+- [New England Mesh (Discord)](https://discord.gg/mdv5ZfRucQ)
+
 #### Alabama
 - [Birmingham Mesh](https://birminghammesh.org/) - Birmingham
+- [Alabama Meshtastic Community (Discord)](https://discord.gg/HdK9Rhr2ch)
 
 #### Arizona
-- [Arizona Meshtastic Community (Website)](https://azmsh.net/index.html)
+- [Arizona Meshtastic Community](https://azmsh.net/index.html)
 
 #### Arkansas
 - [Fab Lab Fort Smith (Discord)](https://discord.com/invite/nwsvcXeqMX) - Fort Smith
+- [Central Arkansas Mesh](https://lrme.sh)
 
 #### California
 - [BayMesh](https://bayme.sh/) - San Francisco Bay Area
@@ -402,10 +569,17 @@ For online communities, forums and gathering places, that are not nessisarily ge
 - [AltaMesh](https://altamesh.net/) - Altadena, CA
 - [Meshtastic Santa Cruz County (Groups.IO)](https://groups.io/g/Meshtastic-Santa-Cruz)
 - [MontereyBayMesh](https://mrymesh.net/)
+- [Inter-Canyon Mesh](https://icmesh.com) - Orange County Canyons
+- [High Desert Mesh](https://hdmesh.org/)
 
 #### Colorado
 - [Denver Mesh](https://denvermesh.org/)
 - [Longmont Mesh](https://longmont.localmesh.org/)
+- [Northern Colorado Mesh](https://nocomesh.org)
+- [Colorado Springs Meshtastic (Facebook)](https://www.facebook.com/groups/cosmeshtastic)
+
+#### Connecticut
+- [CT Mesh](https://ctmesh.org)
 
 #### Delaware
 - [Delaware Meshtastic User Group](https://deme.sh)
@@ -413,47 +587,118 @@ For online communities, forums and gathering places, that are not nessisarily ge
 #### Florida
 - [Florida Meshtastic](https://discord.gg/WRcfFH4sGz)
 - [JAXMesh](https://jaxmesh.com/)
+- [Space Coast Mesh](https://scmesh.org/)
+- [Florida Mesh](https://areyoumeshingwith.us/)
+
+#### Georgia
+- [Mountain Mesh](https://mtnme.sh) - Metro Atlanta/Athens/North GA
+- [Georgia Statewide Mesh Coalition](https://gamesh.net)
+- [CSRA Mesh (Discord)](https://discord.gg/rQSTQDZKgs) - Augusta area
 
 #### Hawaii
 - [Hawaii Meshnet](https://www.hawaiimesh.net/)
 
 #### Idaho
 - [Intermountain Mesh](https://freq51.net/)
+- [Idaho Mesh](https://www.idahomesh.com/)
 
 #### Illinois
 - [Chicagoland Meshtastic](https://chicagolandmesh.org/)
 - [Clark County Illinois Meshtastic Network](https://clarkcountyill.localmesh.org/doku.php?id=start)
+- [Central Illinois Mesh (Discord)](https://discord.gg/XXpMeCAJye)
 
 #### Indiana
 - [NWIMesh](https://nwimesh.net/) - Northwest Indiana
+- [Hoosier Mesh](https://hoosiermesh.org)
 - [Central Indiana Mesh Network](https://www.cimesh.net/)
 - [Southern Indiana Mesh Network](http://simnetwork.org/)
 - [Bloomington Mesh Network](https://btownmesh.org/)
 - [Indiana Mesh (Discord)](https://discord.gg/j2fGcuMUAu)
 
+#### Iowa
+- [Iowa Mesh](https://iowamesh.org)
+
+#### Kansas
+- [SecKC Meshtastic](https://ks3ckc.radio/meshtastic) - Kansas City area
+
+#### Kentucky
+- [Kentuckiana Mesh (Discord)](https://discord.gg/RVb3pDPEZd) - Louisville & Southern Indiana
+
 #### Louisiana
 - [Louisiana Mesh Community](https://louisianamesh.org/)
-  
+
+#### Maine
+- [Maine Mesh](https://github.com/JFRHorton/MaineMesh)
+
 #### Massachusetts
 - [Boston Meshnet (Facebook)](https://www.facebook.com/groups/376287875353461/)
+- [Pioneer Valley Meshtastic Network](https://pvmesh.org)
+- [SouthCoast Mesh](https://southcoastmesh.com)
+- [Greater Boston Mesh (Discord)](https://discord.gg/MUVASVEEES)
 
 #### Michigan
 - [Michigan Meshtastic Network (Discord)](https://discord.gg/3A5RREcBcc)
 
+#### Minnesota
+- [MSP Mesh](https://mspmesh.org/)
+
+#### Mississippi
+- [Mississippi Meshtastic Community (Discord)](https://discord.gg/xmsDfx5Jcr)
+
+#### Missouri
+- [MeshSTL (Discord)](https://discord.gg/QYxUdKZpBd) - St. Louis
+- [CMRG Mesh](https://www.mo-mesh.com) - Jefferson City
+- [LZMesh](https://www.lzmesh.com) - SW Missouri
+
+#### Montana
+- [Montana Meshtastic Community](https://montanamesh.com/)
+
 #### Nevada
 - [MeshEnvy](https://meshenvy.org)
+- [LASmesh](https://lasmesh.com)
+- [VegasMesh (Discord)](https://discord.gg/vUmWuZxYPh)
+
+#### New Hampshire
+- [NHMesh (Discord)](https://discord.gg/PkbHWSEXBv)
 
 #### New Mexico
 - [Albuquerque Mesh](https://www.abqm.net)
 
+#### New York
+- [New York Mesh](https://nyme.sh)
+- [BuffaLoRa](https://buffalora.org) - Buffalo
+- [ROCMesh](https://rocmesh.com/) - Rochester
+- [Upstate Mesh](https://www.upstatemesh.org/) - Capital Region
+- [Southern Tier Mesh](https://stmesh.net)
+
 #### North Carolina
 - [North Carolina Mesh](https://ncmesh.net)
+- [MeshAVL](https://meshavl.com) - Asheville
+
+#### North Dakota
+- [North Dakota Mesh (Discord)](https://discord.gg/JUBrZepkaM)
 
 #### Ohio
 - [Northeast Ohio Mesh](https://neome.sh)
+- [Cincy Mesh](https://www.cincymesh.org) - Cincinnati
+- [Dayton Mesh](https://daytonmesh.org/)
+- [Columbus Mesh](https://meshcolumb.us/)
 
 #### Oklahoma
 - [Oklahoma Meshtastic (Facebook)](https://www.facebook.com/groups/942404880478488)
+
+#### Oregon
+- [MeshOregon](https://meshoregon.com)
+- [PDXMesh](https://pdxmesh.com) - Portland & SW Washington
+
+#### Pennsylvania
+- [Philly Mesh](https://phillymesh.net/)
+- [Bucks County Mesh](https://bucksmesh.net)
+- [Susquehanna Valley Mesh](https://svmesh.net)
+- [Nittany Valley Mesh](https://nittanyvalleymesh.org/)
+
+#### Puerto Rico
+- [PR Mesh](https://prme.sh)
 
 #### South Carolina
 - [SC Mesh](https://www.scmesh.us/)
@@ -466,6 +711,9 @@ For online communities, forums and gathering places, that are not nessisarily ge
 
 #### Texas
 - [Austin Mesh](https://austinmesh.org/)
+- [DFW Mesh](https://ntxmesh.com) - North Texas
+- [El Paso Meshtastic Community (Discord)](https://discord.gg/elp-mesh)
+- [Central Texas Mesh (Discord)](https://discord.gg/StsH5BncsW)
 
 #### Utah
 - [Intermountain Mesh](https://freq51.net/)
@@ -473,6 +721,18 @@ For online communities, forums and gathering places, that are not nessisarily ge
 #### Virginia
 - [Northern Virginia Meshtastic](https://groups.io/g/NoVa-Meshtastic)
 - [Shenandoah Valley Meshtastic](https://svmeshtastic.org)
+- [MadisonMesh](https://madisonmesh.com/)
+- [Albemarle Mesh](https://albemarlemesh.com/)
+- [Virginia Peninsula Mesh](https://vpmesh.org/)
 
 #### Washington
 - [Tacoma.localmesh](https://tacoma.localmesh.org/doku.php?id=start)
+- [Puget Mesh](https://PugetMesh.org)
+- [LINC - Lincoln County](https://lincme.sh)
+
+#### Washington DC
+- [DC Mesh](https://dcmesh.org)
+
+#### Wisconsin
+- [Madison Area Mesh](https://madmesh.net)
+- [Meshconsin](https://meshconsin.org)
