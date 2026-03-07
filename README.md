@@ -44,6 +44,7 @@ Note: Meshtastic® is a registered trademark of [Meshtastic LLC](https://meshtas
   - [Finland](#finland)
   - [France](#france)
   - [Germany](#germany)
+  - [Greece](#greece)
   - [India](#india)
   - [Italy](#italy)
   - [Lithuania](#lithuania)
@@ -292,6 +293,11 @@ For online communities, forums and gathering places, that are not nessisarily ge
 ### Germany
 **[`^        back to top        ^`](#awesome-meshtastic)**
 - [Meshtastic Users Germany (D-A-CH) (Telegram)](https://t.me/meshtasticgermany) - for technical chat
+
+### Greece
+**[`^        back to top        ^`](#awesome-meshtastic)**
+- [MeshGreece](https://www.meshgreece.org)
+- [MeshGreece Discord](https://discord.com/invite/dzHQSVe8EV)
 
 ### India
 **[`^        back to top        ^`](#awesome-meshtastic)**
