@@ -48,6 +48,7 @@ Note: Meshtastic® is a registered trademark of [Meshtastic LLC](https://meshtas
   - [Italy](#italy)
   - [Lithuania](#lithuania)
   - [The Netherlands](#the-netherlands)
+  - [New Zealand](#new-zealand)
   - [South Africa](#south-africa)
   - [Sweden](#sweden)
   - [Poland](#poland)
