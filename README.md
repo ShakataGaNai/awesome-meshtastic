@@ -69,6 +69,7 @@ Note: Meshtastic® is a registered trademark of [Meshtastic LLC](https://meshtas
     - [Hawaii](#hawaii)
     - [Idaho](#idaho)
     - [Illinois](#illinois)
+    - [Indiana](#indiana)
     - [Louisiana](#louisiana)
     - [Massachusetts](#massachusetts)
     - [Michigan](#michigan)
@@ -170,6 +171,7 @@ Is it software, but not for a server? For you, your phone or your computer? You 
 - [MeshSense](https://affirmatech.com/meshsense) - Windows/Mac/Linux app for using a node over Wi-Fi or Bluetooth
 - [Meshtastic Visualizer](https://github.com/antlas0/meshtastic_visualizer) - Python PyQT desktop app to interface with local nodes, or subscribing to MQTT servers
 - [Meshtastic Plugin for Pidgin](https://github.com/dadecoza/pidgin-meshtastic) - A plugin to enable you to use Meshtastic with Pidgin (a multiplatform chat client)
+- [MeshStation](https://github.com/IronGiu/MeshStation) - Multi-platform SDR analyzer and desktop GUI for decoding and visualizing Meshtastic traffic using RTL-SDR or other SDR hardware
 
 ## Hacks and Projects
 
@@ -353,6 +355,7 @@ For online communities, forums and gathering places, that are not nessisarily ge
 - [Sweden Mesh](https://www.meshat.se/)
 - [STHLM-MESH Mesh](https://sthlm-mesh.se/) - Stockholm
 - [GBG Mesh](https://gbg-mesh.se/) - Gothenburg
+- [JKPG Mesh](https://jkpg-mesh.se/) - Jönköping
 
 ### Taiwan
 **[`^        back to top        ^`](#awesome-meshtastic)**
@@ -419,6 +422,13 @@ For online communities, forums and gathering places, that are not nessisarily ge
 #### Illinois
 - [Chicagoland Meshtastic](https://chicagolandmesh.org/)
 - [Clark County Illinois Meshtastic Network](https://clarkcountyill.localmesh.org/doku.php?id=start)
+
+#### Indiana
+- [NWIMesh](https://nwimesh.net/) - Northwest Indiana
+- [Central Indiana Mesh Network](https://www.cimesh.net/)
+- [Southern Indiana Mesh Network](http://simnetwork.org/)
+- [Bloomington Mesh Network](https://btownmesh.org/)
+- [Indiana Mesh (Discord)](https://discord.gg/j2fGcuMUAu)
 
 #### Louisiana
 - [Louisiana Mesh Community](https://louisianamesh.org/)
