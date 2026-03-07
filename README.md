@@ -80,6 +80,7 @@ Note: Meshtastic® is a registered trademark of [Meshtastic LLC](https://meshtas
     - [Ohio](#ohio)
     - [Oklahoma](#oklahoma)
     - [South Carolina](#south-carolina)
+    - [South Dakota](#south-dakota)
     - [Tennessee](#tennessee)
     - [Texas](#texas)
     - [Utah](#utah)
@@ -456,6 +457,9 @@ For online communities, forums and gathering places, that are not nessisarily ge
 
 #### South Carolina
 - [SC Mesh](https://www.scmesh.us/)
+
+#### South Dakota
+- [SoDakMesh](https://www.sodakmesh.org/)
 
 #### Tennessee
 - [Meshville](https://meshville.org/) - Nashville
