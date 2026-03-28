@@ -203,6 +203,7 @@ For software tools developed specifically for meshtastic but probably require ru
 Is it software, but not for a server? For you, your phone or your computer? You probably need some knowledge on how to run/use these things.
 
 - [Meshtastic-MQTT-Connect by pdxlocations](https://github.com/pdxlocations/Meshtastic-MQTT-Connect) - A python (TK/TCL) based MQTT/Meshtastic UI for your local machine.
+- [Mesh-Client by Colorado-Mesh](https://github.com/Colorado-Mesh/mesh-client) - A cross-platform Electron desktop client for Meshtastic and MeshCore on macOS, Linux, and Windows with BLE, USB serial, Wi-Fi/TCP, MQTT, local SQLite history, and routing diagnostics.
 - [MultiMesh](https://github.com/paulocode/multimesh) - A cross-platform Meshtastic client based on Flutter
 - [Meshtastic-SDR](https://gitlab.com/crankylinuxuser/meshtastic_sdr) - A GnuRadio and Python based replacement for Meshtastic radio hardware. Can receive multiple presets at the same time. Currently working on TX.
 - [Meshtastic-SAME-EAS-Alerter by RCGV1](https://github.com/RCGV1/Meshtastic-SAME-EAS-Alerter) - A tool to recieve alerts from the National Weather Service and broadcast them on Meshtastic
@@ -573,7 +574,7 @@ For online communities, forums and gathering places, that are not nessisarily ge
 - [High Desert Mesh](https://hdmesh.org/)
 
 #### Colorado
-- [Denver Mesh](https://denvermesh.org/)
+- [Colorado Mesh](https://coloradomesh.org/)
 - [Longmont Mesh](https://longmont.localmesh.org/)
 - [Northern Colorado Mesh](https://nocomesh.org)
 - [Colorado Springs Meshtastic (Facebook)](https://www.facebook.com/groups/cosmeshtastic)
