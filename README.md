@@ -195,6 +195,7 @@ For software tools developed specifically for meshtastic but probably require ru
 - [Frozen BBS](https://github.com/kstrauser/frozenbbs) - Another BBS Implementation (written in Rust)
 - [Meshtastic-Matrix-Relay](https://github.com/geoffwhittington/meshtastic-matrix-relay) - Meshtastic to Matrix Relay
 - [Meshmonitor](https://meshmonitor.org/) - A powerful web application for monitoring Meshtastic nodes over IP with real-time updates, interactive maps, and comprehensive network analytics.
+- [MeshSight](https://ranfty.github.io/meshsight/) - Terrain-aware RF coverage planner for mapping predicted LoRa signal reach before deploying nodes.
 
 ## Local Software
 
