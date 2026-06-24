@@ -217,6 +217,7 @@ Is it software, but not for a server? For you, your phone or your computer? You 
 - [Meshtastic Visualizer](https://github.com/antlas0/meshtastic_visualizer) - Python PyQT desktop app to interface with local nodes, or subscribing to MQTT servers
 - [Meshtastic Plugin for Pidgin](https://github.com/dadecoza/pidgin-meshtastic) - A plugin to enable you to use Meshtastic with Pidgin (a multiplatform chat client)
 - [MeshStation](https://github.com/IronGiu/MeshStation) - Multi-platform SDR analyzer and desktop GUI for decoding and visualizing Meshtastic traffic using RTL-SDR or other SDR hardware
+- [Red Grid MGRS](https://redgridtactical.com/mgrs) - Offline MGRS/tactical-map navigator (iOS/Android) that shows Meshtastic node positions with grid, bearing, and distance over BLE. No accounts, no tracking.
 
 ## Hacks and Projects
 
