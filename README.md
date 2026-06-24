@@ -649,6 +649,7 @@ For online communities, forums and gathering places, that are not nessisarily ge
 - [Mississippi Meshtastic Community (Discord)](https://discord.gg/xmsDfx5Jcr)
 
 #### Missouri
+- [Missouri Mesh](https://missourimesh.org)
 - [MeshSTL (Discord)](https://discord.gg/QYxUdKZpBd) - St. Louis
 - [CMRG Mesh](https://www.mo-mesh.com) - Jefferson City
 - [LZMesh](https://www.lzmesh.com) - SW Missouri
