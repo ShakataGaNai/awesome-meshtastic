@@ -218,6 +218,7 @@ Is it software, but not for a server? For you, your phone or your computer? You 
 - [Meshtastic Plugin for Pidgin](https://github.com/dadecoza/pidgin-meshtastic) - A plugin to enable you to use Meshtastic with Pidgin (a multiplatform chat client)
 - [MeshStation](https://github.com/IronGiu/MeshStation) - Multi-platform SDR analyzer and desktop GUI for decoding and visualizing Meshtastic traffic using RTL-SDR or other SDR hardware
 - [Red Grid MGRS](https://redgridtactical.com/mgrs) - Offline MGRS/tactical-map navigator (iOS/Android) that shows Meshtastic node positions with grid, bearing, and distance over BLE. No accounts, no tracking.
+- [WeatherStation2Meshtastic](https://github.com/iz0kew/WeatherStation2Meshtastic) by IZ0KEW - Modular ESP32-S3 (Heltec WiFi LoRa 32 V3/V4) firmware that decodes 868 MHz weather sensors (Fine Offset/Ecowitt, Bresser, LaCrosse) and bridges them to Meshtastic as native telemetry, with OLED display and automatic bulletins.
 
 ## Hacks and Projects
 
