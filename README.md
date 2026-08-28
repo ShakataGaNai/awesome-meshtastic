@@ -197,7 +197,7 @@ For software tools developed specifically for meshtastic but probably require ru
 - [Meshtastic-Matrix-Relay](https://github.com/geoffwhittington/meshtastic-matrix-relay) - Meshtastic to Matrix Relay
 - [Meshmonitor](https://meshmonitor.org/) - A powerful web application for monitoring Meshtastic nodes over IP with real-time updates, interactive maps, and comprehensive network analytics.
 - [MeshSight](https://ranfty.github.io/meshsight/) - Terrain-aware RF coverage planner for mapping predicted LoRa signal reach before deploying nodes.
-- [MeshSat by cubeos-app](https://github.com/cubeos-app/meshsat) - Bridges a Meshtastic mesh out to the wider world when there is no internet: Iridium satellite (RockBLOCK 9603 SBD and 9704 IMT), cellular SMS, APRS/AX.25, TAK (CoT XML), MQTT and webhooks, with rule-based routing, a delivery queue and a built-in web dashboard. Runs as a Docker container on a Raspberry Pi.
+- [MeshSat](https://github.com/meshsat/meshsat) - Bridges a Meshtastic mesh out to the wider world when there is no internet: Iridium satellite (RockBLOCK 9603 SBD and 9704 IMT), cellular SMS, APRS/AX.25, TAK (CoT XML), MQTT and webhooks, with rule-based routing, a delivery queue and a built-in web dashboard. Runs as a Docker container on a Raspberry Pi.
 
 ## Local Software
 
