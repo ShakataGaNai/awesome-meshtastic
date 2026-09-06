@@ -298,6 +298,7 @@ For online communities, forums and gathering places, that are not nessisarily ge
 - [BE Mesh (Telegram)](https://t.me/be_mesh)
 - [Discord Connect Post (Meshtastic Discord Connect channel/post)](https://discord.com/channels/867578229534359593/1203735828707156020) - The Belgium post in the connect channel of the official Meshtatic Discord server
 - [Liège Mesh](https://tchiniss.net/)
+- [Liège LongFast/Wallonie-fr/112-LF Mesh](https://www.on3mee.be/telecom/meshtastic.htm) - Meshtastic Mesh of Liege for EMCOM and free users - 433 MHz 
 
 ### Brazil
 **[`^        back to top        ^`](#awesome-meshtastic)**
