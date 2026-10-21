@@ -240,10 +240,11 @@ Is it software, but not for a server? For you, your phone or your computer? You 
 
 Reputable stores that provide quality hardware only.
 
+- [Meshware.net](https://meshware.net) - Find your next node (Tool)
 - [Rokland](https://store.rokland.com/pages/meshtastic-hardware-rak-lilygo)
 - [YetiWurks](https://www.yetiwurks.com/product-category/communication/)
-- [Neil Hao on Tindie](https://www.tindie.com/stores/neilhao/) - For the G1 & G2 series of devices
-- [LILYGO Offical Site](https://www.lilygo.cc/collections/lora-or-gps)
+- [BQ Voyage](https://store.bqvoy.com/) - For the G1 & G2 series of devices
+- [LILYGO](https://www.lilygo.cc/collections/lora-or-gps)
 - [LILYGO on AliExpress](https://lilygo.aliexpress.com/store/1101195566)
 - [Spec5](https://specfive.com)
 - [AT Labs](https://at-labs.tech)
