@@ -199,6 +199,9 @@ For software tools developed specifically for meshtastic but probably require ru
 - [MeshSight](https://ranfty.github.io/meshsight/) - Terrain-aware RF coverage planner for mapping predicted LoRa signal reach before deploying nodes.
 - [MeshSat](https://github.com/meshsat/meshsat) - Bridges a Meshtastic mesh out to the wider world when there is no internet: Iridium satellite (RockBLOCK 9603 SBD and 9704 IMT), cellular SMS, APRS/AX.25, TAK (CoT XML), MQTT and webhooks, with rule-based routing, a delivery queue and a built-in web dashboard. Runs as a Docker container on a Raspberry Pi.
 - [RepeaterTastic](https://github.com/ScotMesh/RepeaterTastic) - Host multiple virtual Meshtastic nodes on a single LoRa modem, with separate identities, channels and node numbers. Includes a web UI, repeater functionality, MQTT, plugins and support for multiple radios.
+- [Malla](https://github.com/zenitraM/malla) - Self-hosted web analyzer for Meshtastic networks built on MQTT data, with map-based node visualization, messaging, telemetry and network monitoring.
+- [MeshDash](https://meshdash.co.uk) - Self-hosted Meshtastic dashboard and command & control platform with live node management, interactive maps, messaging, packet capture and analysis, traceroute diagnostics, an automation rules engine, plugins and a REST API. Connects over TCP/MQTT; runs on Linux and Raspberry Pi.
+- [Mesh AI Gateway](https://github.com/AmericanSquid/Meshtastic-AI-Gateway) - Self-hosted Linux gateway that connects a Meshtastic network to AI providers (local Ollama models or OpenAI-compatible APIs) over TCP, BLE or serial, with per-sender conversation history, provider failover and a curses TUI for monitoring.
 
 ## Local Software
 
@@ -431,7 +434,7 @@ For online communities, forums and gathering places, that are not nessisarily ge
 
 ### Israel
 **[`^        back to top        ^`](#awesome-meshtastic)**
-- [Israel Meshtastic Club](https://www.mesh-il.com)
+- [Mesh IL](https://meshtastic.org.il)
 
 ### Italy
 **[`^        back to top        ^`](#awesome-meshtastic)**
