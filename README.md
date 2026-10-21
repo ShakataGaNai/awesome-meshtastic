@@ -243,13 +243,15 @@ Reputable stores that provide quality hardware only.
 - [Meshware.net](https://meshware.net) - Find your next node (Tool)
 - [Rokland](https://store.rokland.com/pages/meshtastic-hardware-rak-lilygo)
 - [YetiWurks](https://www.yetiwurks.com/product-category/communication/)
-- [BQ Voyage](https://store.bqvoy.com/) - For the G1 & G2 series of devices
+- [BQ Voyage](https://store.bqvoy.com/)
 - [LILYGO](https://www.lilygo.cc/collections/lora-or-gps)
-- [LILYGO on AliExpress](https://lilygo.aliexpress.com/store/1101195566)
 - [Spec5](https://specfive.com)
 - [AT Labs](https://at-labs.tech)
 - [CommsForAll](https://commsforall.com)
 - [PileupDX](https://pileupdx.com/product-category/brands/meshtastic/) - Based in Stockholm, Sweden
+- [Muzi Works](https://muzi.works/)
+- [Atlavox](https://atlavox.com/)
+- [M5Stack](https://shop.m5stack.com/)
 
 ## Communities
 
