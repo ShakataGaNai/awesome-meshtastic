@@ -220,6 +220,7 @@ Is it software, but not for a server? For you, your phone or your computer? You 
 - [MeshStation](https://github.com/IronGiu/MeshStation) - Multi-platform SDR analyzer and desktop GUI for decoding and visualizing Meshtastic traffic using RTL-SDR or other SDR hardware
 - [Red Grid MGRS](https://redgridtactical.com/mgrs) - Offline MGRS/tactical-map navigator (iOS/Android) that shows Meshtastic node positions with grid, bearing, and distance over BLE. No accounts, no tracking.
 - [WeatherStation2Meshtastic](https://github.com/iz0kew/WeatherStation2Meshtastic) by IZ0KEW - Modular ESP32-S3 (Heltec WiFi LoRa 32 V3/V4) firmware that decodes 868 MHz weather sensors (Fine Offset/Ecowitt, Bresser, LaCrosse) and bridges them to Meshtastic as native telemetry, with OLED display and automatic bulletins.
+- [ShackScreen](https://github.com/maxhayim/ShackScreen) - Free, open-source launcher dashboard for Android TV, Google TV, Fire TV and tablets. Shows recent Meshtastic and MeshCore messages from a MeshMonitor server on the TV, and opens MeshMap, MeshCore Map, MeshMonitor or your own node full screen.
 
 ## Hacks and Projects
 
