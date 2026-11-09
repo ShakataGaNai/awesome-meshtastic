@@ -162,6 +162,7 @@ A collection of useful guides and getting started information for the new Meshta
 - [Meshtastic RF Connector Types](https://pole1.co.uk/blog/5/) - Visual dictionary of RF connector types commonly found on Meshtastic radios and antennas. Many detailed macro photos.
 - [Meshtastic Quick-Start Video Guide (iOS)](https://www.youtube.com/watch?v=IoaoYbrdtlU) - Short video showing radio setup and basic functions on iOS App
 - [Disaster Comms with Meshtastic + MeshCore](https://pamfinds.com/guides/disaster-comms-meshtastic-meshcore/) - Guide to surviving infrastructure meltdown with a 3-node household kit (base station, go-bag node with GPS, solar relay). Covers hardware selection, pre-event configuration, range realities, power budgeting, and the Meshtastic vs MeshCore tradeoff.
+- [meshers.net](https://meshers.net/) - Independent beginner guides for Meshtastic and MeshCore, including which band and device to buy in each country, Meshtastic vs MeshCore, off-grid solar repeaters, and a directory of local groups.
 
 ## Maps and Diagnostics
 
